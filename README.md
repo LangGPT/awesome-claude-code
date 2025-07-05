@@ -15,6 +15,12 @@ Claude Code 是 Anthropic 开发的智能编程助手，直接在终端中运行
 - [MCP 支持](#mcp-支持)
 - [实用工具](#实用工具)
 - [社区资源](#社区资源)
+- [模板和示例](#模板和示例)
+- [教程指南](#教程指南)
+- [钩子和自动化](#钩子和自动化)
+- [斜杠命令](#斜杠命令)
+- [最佳实践](#最佳实践)
+- [企业集成](#企业集成)
 - [贡献指南](#贡献指南)
 
 ## 官方文档
@@ -184,16 +190,145 @@ claude --help
 ### 英文资源
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - 官方精选资源列表
 - [Claude Code GitHub](https://github.com/anthropics/claude-code) - 官方 GitHub 仓库
+- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - 官方最佳实践指南
+- [Claude Code SDK](https://docs.anthropic.com/zh-CN/docs/claude-code/sdk) - 开发者 SDK 文档
+
+### 社区工具
+- [Claude Command Suite](https://github.com/qdhenry/Claude-Command-Suite) - 专业斜杠命令集合
+- [ClaudeLog](https://github.com/InventorBlack/ClaudeLog) - 详细的知识库和技术指南
+- [Claude Code Commands](https://www.claudecode.io/commands) - 60+ 斜杠命令资源
 
 ### 工作流程和知识指南
 - 探索社区贡献的工作流程
 - 学习最佳实践和使用技巧
 - 发现创新的使用方式
+- 分享实际应用场景
 
 ### 扩展工具
 - **Hooks**: 自定义工作流程钩子
 - **Slash Commands**: 扩展命令功能
 - **CLAUDE.md Templates**: 各种项目模板
+- **MCP Servers**: 模型上下文协议服务器
+
+## 模板和示例
+
+### CLAUDE.md 模板
+- [React/Next.js 项目模板](./templates/frontend/react-nextjs.md) - 现代前端项目配置
+- [Python/FastAPI 模板](./templates/backend/python-fastapi.md) - 后端 API 项目配置
+- [更多模板](./templates/) - 各种项目类型的完整模板
+
+### 工作流程示例
+- [功能分支创建](./examples/slash-commands/version-control/create-feature-branch.md) - 自动化分支管理
+- [代码格式化钩子](./examples/hooks/formatting/prettier-hook.md) - 自动格式化代码
+- [更多示例](./examples/) - 实用的工作流程配置
+
+### 配置文件
+- 项目配置示例
+- 团队协作配置
+- 环境特定配置
+
+## 教程指南
+
+### 基础教程
+- [快速入门](./tutorials/basics/quick-start.md) - 5分钟快速上手指南
+- [基本概念](./tutorials/basics/concepts.md) - 核心概念详解
+- [常用命令](./tutorials/basics/commands.md) - 命令行使用指南
+
+### 进阶教程
+- [CLAUDE.md 最佳实践](./tutorials/advanced/claude-md-best-practices.md) - 项目记忆管理
+- [自定义工作流程](./tutorials/advanced/custom-workflows.md) - 创建专属工作流
+- [钩子系统](./tutorials/advanced/hooks-system.md) - 自动化任务执行
+
+### 实战案例
+- 全栈项目开发流程
+- 遗留代码重构指南
+- API 开发最佳实践
+- 前端组件库开发
+
+## 钩子和自动化
+
+### 钩子类型
+- **PreToolUse**: 工具调用前执行
+- **PostToolUse**: 工具调用后执行
+- **Notification**: 通知触发时执行
+- **Stop**: 主代理完成时执行
+- **SubagentStop**: 子代理完成时执行
+
+### 自动化场景
+- **代码格式化**: 文件编辑后自动格式化
+- **质量检查**: 自动运行 lint 和类型检查
+- **通知系统**: 自定义通知和反馈
+- **安全检查**: 自动安全扫描和合规检查
+
+### 配置示例
+```bash
+# 设置钩子
+/hooks
+
+# 选择钩子类型和配置脚本
+# 支持 bash、python、node 等脚本
+```
+
+## 斜杠命令
+
+### 版本控制
+- `/create-feature-branch` - 创建功能分支
+- `/finish-feature` - 完成功能开发
+- `/sync-branch` - 同步分支代码
+- `/create-pr` - 创建 Pull Request
+
+### 代码分析
+- `/analyze-performance` - 性能分析
+- `/security-audit` - 安全审计
+- `/code-quality` - 代码质量检查
+- `/dependency-check` - 依赖分析
+
+### 测试相关
+- `/run-tests` - 运行测试套件
+- `/test-coverage` - 测试覆盖率报告
+- `/create-test` - 创建测试文件
+- `/fix-failing-tests` - 修复失败测试
+
+### 文档生成
+- `/generate-docs` - 生成 API 文档
+- `/update-readme` - 更新 README
+- `/create-changelog` - 创建变更日志
+- `/document-code` - 添加代码注释
+
+### 自定义命令
+```bash
+# 创建项目级命令
+# 保存到 .claude/commands/
+
+# 创建用户级命令
+# 保存到 ~/.claude/commands/
+```
+
+## 最佳实践
+
+### CLAUDE.md 编写指南
+1. **保持简洁**: 使用短小的声明式要点
+2. **结构化内容**: 清晰的分类和层次
+3. **项目特定**: 针对具体项目的配置
+4. **持续更新**: 随项目发展不断完善
+
+### 工作流程优化
+1. **自动化重复任务**: 使用钩子和命令
+2. **标准化流程**: 团队共享配置
+3. **渐进式改进**: 逐步完善工作流程
+4. **监控和调整**: 定期评估效果
+
+### 团队协作
+1. **共享配置**: 统一的 CLAUDE.md 文件
+2. **文档规范**: 清晰的使用指南
+3. **培训支持**: 团队成员培训
+4. **反馈机制**: 持续改进流程
+
+### 性能优化
+1. **合理使用记忆**: 避免过长的 CLAUDE.md
+2. **选择性钩子**: 只在必要时使用钩子
+3. **缓存策略**: 合理使用缓存
+4. **监控资源**: 关注 token 使用情况
 
 ## 企业集成
 
