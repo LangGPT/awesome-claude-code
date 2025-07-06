@@ -366,6 +366,30 @@ claude --help
 
 ---
 
+## 项目统计
+
+📊 **当前规模**:
+- 🎯 **7+ 主流技术栈** CLAUDE.md 模板
+- ⚡ **50+ 实用斜杠命令** 覆盖开发全流程
+- 🔧 **30+ Hooks 配置** 实现自动化工作流
+- 📚 **完整教程体系** 从入门到高级
+- 🛡️ **安全最佳实践** 企业级安全指南
+- 🚀 **2024 最新特性** MCP 和 Hooks 深度集成
+
+## 快速统计
+
+| 类别 | 数量 | 覆盖范围 |
+|------|------|----------|
+| CLAUDE.md 模板 | 7+ | React, Vue, Angular, Django, FastAPI, Spring Boot, Go |
+| 斜杠命令 | 50+ | 测试、部署、安全、性能、文档、版本控制 |
+| Hooks 示例 | 30+ | 格式化、质量检查、安全扫描、性能监控 |
+| 教程文档 | 20+ | 基础、进阶、最佳实践、故障排除 |
+| 工作流程 | 15+ | 开发、测试、部署、监控完整流程 |
+
+---
+
 **⭐ 如果这个资源对您有帮助，请给个 Star！**
 
 **🤝 欢迎提交 Issue 和 Pull Request 来完善这个列表！**
+
+**📢 加入讨论**: [GitHub Discussions](https://github.com/LangGPT/awesome-claude-code-zh/discussions) | [提交反馈](https://github.com/LangGPT/awesome-claude-code-zh/issues)
