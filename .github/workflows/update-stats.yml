@@ -1,0 +1,109 @@
+name: 更新项目统计
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # 每天 UTC 时间 02:00 (北京时间 10:00) 运行
+    - cron: '0 2 * * *'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: 设置 Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: 统计项目资源
+      run: |
+        echo "# 📊 项目统计报告" > STATS.md
+        echo "" >> STATS.md
+        echo "最后更新: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> STATS.md
+        echo "" >> STATS.md
+        
+        # 统计模板数量
+        TEMPLATE_COUNT=$(find templates/ -name "*.md" -not -name "README.md" | wc -l)
+        echo "## 📋 CLAUDE.md 模板: $TEMPLATE_COUNT 个" >> STATS.md
+        echo "" >> STATS.md
+        find templates/ -name "*.md" -not -name "README.md" | while read file; do
+          name=$(basename "$file" .md)
+          echo "- $name" >> STATS.md
+        done
+        echo "" >> STATS.md
+        
+        # 统计斜杠命令
+        COMMAND_COUNT=$(find examples/slash-commands/ -name "*.md" | wc -l)
+        echo "## ⚡ 斜杠命令: $COMMAND_COUNT 个" >> STATS.md
+        echo "" >> STATS.md
+        find examples/slash-commands/ -type d -mindepth 1 | while read dir; do
+          category=$(basename "$dir")
+          count=$(find "$dir" -name "*.md" | wc -l)
+          echo "- $category: $count 个命令" >> STATS.md
+        done
+        echo "" >> STATS.md
+        
+        # 统计 Hooks
+        HOOK_COUNT=$(find examples/hooks/ -name "*.md" | wc -l)
+        echo "## 🔧 Hooks 配置: $HOOK_COUNT 个" >> STATS.md
+        echo "" >> STATS.md
+        find examples/hooks/ -type d -mindepth 1 | while read dir; do
+          category=$(basename "$dir")
+          count=$(find "$dir" -name "*.md" | wc -l)
+          echo "- $category: $count 个配置" >> STATS.md
+        done
+        echo "" >> STATS.md
+        
+        # 统计文档文件
+        DOC_COUNT=$(find . -name "*.md" | wc -l)
+        echo "## 📚 文档文件: $DOC_COUNT 个" >> STATS.md
+        echo "" >> STATS.md
+        
+        # 统计总行数
+        TOTAL_LINES=$(find . -name "*.md" -exec wc -l {} + | tail -1 | awk '{print $1}')
+        echo "## 📝 总文档行数: $TOTAL_LINES 行" >> STATS.md
+        echo "" >> STATS.md
+        
+        # 检查链接
+        echo "## 🔗 链接检查" >> STATS.md
+        BROKEN_LINKS=0
+        find . -name "*.md" -exec grep -H "http[s]*://" {} \; | while read line; do
+          url=$(echo "$line" | grep -oE 'https?://[^)]*' | head -1)
+          if [ -n "$url" ]; then
+            if ! curl -L --output /dev/null --silent --head --fail "$url"; then
+              echo "❌ $url" >> STATS.md
+              BROKEN_LINKS=$((BROKEN_LINKS + 1))
+            fi
+          fi
+        done
+        if [ $BROKEN_LINKS -eq 0 ]; then
+          echo "✅ 所有链接有效" >> STATS.md
+        fi
+        
+        echo "" >> STATS.md
+        echo "---" >> STATS.md
+        echo "*此报告由 GitHub Actions 自动生成*" >> STATS.md
+    
+    - name: 检查更改
+      id: verify-changed-files
+      run: |
+        if git diff --quiet; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: 提交统计更新
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add STATS.md
+        git commit -m "自动更新项目统计 🤖"
+        git push
