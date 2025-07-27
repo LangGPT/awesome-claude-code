@@ -1,1 +1,0 @@
-构建一个GitHub项目介绍 Claude code 的精选资源， awesome-claude-code-zh 仓库，并提交到GitHub。

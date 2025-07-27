@@ -1,395 +1,191 @@
-# Awesome Claude Code 中文资源 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> 精选的 Claude Code 资源、工具和工作流程列表
-
-Claude Code 是 Anthropic 开发的智能编程助手，直接在终端中运行，无需额外的服务器或复杂配置。
-
-## 目录
-
-- [官方文档](#官方文档)
-- [快速开始](#快速开始)
-- [核心功能](#核心功能)
-- [IDE 集成](#ide-集成)
-- [工作流程](#工作流程)
-- [记忆管理](#记忆管理)
-- [MCP 支持](#mcp-支持)
-- [实用工具](#实用工具)
-- [社区资源](#社区资源)
-- [模板和示例](#模板和示例)
-- [教程指南](#教程指南)
-- [钩子和自动化](#钩子和自动化)
-- [斜杠命令](#斜杠命令)
-- [最佳实践](#最佳实践)
-- [企业集成](#企业集成)
-- [贡献指南](#贡献指南)
-
-## 官方文档
-
-### 中文文档
-- [概述](https://docs.anthropic.com/zh-CN/docs/claude-code/overview) - Claude Code 的基本介绍和核心特性
-- [安装设置](https://docs.anthropic.com/zh-CN/docs/claude-code/setup) - 完整的安装和配置指南
-- [快速开始](https://docs.anthropic.com/zh-CN/docs/claude-code/quickstart) - 5分钟快速上手指南
-- [记忆管理](https://docs.anthropic.com/zh-CN/docs/claude-code/memory) - CLAUDE.md 文件和项目记忆
-- [常见工作流程](https://docs.anthropic.com/zh-CN/docs/claude-code/common-workflows) - 典型使用场景和最佳实践
-- [IDE 集成](https://docs.anthropic.com/zh-CN/docs/claude-code/ide-integrations) - VS Code、JetBrains 等集成指南
-- [MCP 协议](https://docs.anthropic.com/zh-CN/docs/claude-code/mcp) - 模型上下文协议支持
-- [GitHub Actions](https://docs.anthropic.com/zh-CN/docs/claude-code/github-actions) - CI/CD 集成
-- [SDK 开发](https://docs.anthropic.com/zh-CN/docs/claude-code/sdk) - 开发者工具包
-- [故障排除](https://docs.anthropic.com/zh-CN/docs/claude-code/troubleshooting) - 常见问题解决方案
-
-## 快速开始
-
-### 安装
-
-```bash
-# 使用 npm 安装
-npm install -g @anthropic-ai/claude-code
-
-# 启动 Claude Code
-claude
-```
-
-### 基本用法
-
-```bash
-# 交互式会话
-claude
-
-# 执行单次任务
-claude "分析这个项目的架构"
-
-# 创建 Git 提交
-claude commit
-
-# 显示帮助
-claude --help
-```
-
-## 核心功能
-
-### 🔧 代码操作
-- **文件编辑**: 直接编辑和修复代码库错误
-- **代码分析**: 回答关于代码架构和逻辑的问题
-- **测试执行**: 运行和修复测试及代码检查
-- **Git 集成**: 搜索 Git 历史记录和解决合并冲突
-
-### 🔍 项目理解
-- **架构分析**: 理解整个项目结构
-- **代码导航**: 快速定位相关文件和函数
-- **依赖关系**: 分析模块间的交互关系
-- **最佳实践**: 遵循项目的编码规范
-
-### 🚀 自动化任务
-- **提交创建**: 智能生成 Git 提交和 PR
-- **文档生成**: 自动创建和更新文档
-- **重构辅助**: 识别过时 API 并建议现代化方案
-- **错误修复**: 根据错误消息提供具体解决方案
-
-## IDE 集成
-
-### Visual Studio Code
-- **快捷键**: `Cmd+Esc` (Mac) 或 `Ctrl+Esc` (Windows/Linux)
-- **自动安装**: 在集成终端中运行 `claude` 命令
-- **上下文共享**: 自动分享当前选中的代码或文件
-
-### JetBrains IDEs
-- **支持产品**: PyCharm、WebStorm、IntelliJ、GoLand
-- **插件安装**: 从市场安装插件或在集成终端运行 `claude`
-- **诊断集成**: 自动分享 IDE 诊断错误信息
-
-### 配置技巧
-```bash
-# 启用 IDE 特定功能
-/config
-
-# 设置差异查看器为自动检测
-# 在配置中设置 difference viewer 为 "auto"
-```
-
-## 工作流程
-
-### 💡 理解新代码库
-1. **概览分析**: "给我这个代码库的概述"
-2. **架构深入**: 逐步深入特定组件和模式
-3. **约定理解**: 了解编码规范和项目术语
-
-### 🐛 错误修复和调试
-1. **错误分析**: 分享错误消息和堆栈跟踪
-2. **解决方案**: 获取具体的修复建议
-3. **根因分析**: 识别问题的根本原因
-
-### 🔄 代码重构
-1. **现代化**: 识别过时的 API 使用
-2. **优化建议**: 获取代码改进建议
-3. **增量应用**: 通过测试验证渐进式更改
-
-## 记忆管理
-
-### 记忆文件类型
-- **项目记忆** (`./CLAUDE.md`): 团队共享的项目架构和工作流程
-- **用户记忆** (`~/.claude/CLAUDE.md`): 跨项目的个人偏好设置
-- **已弃用** (`./CLAUDE.local.md`): 本地项目记忆（不推荐使用）
-
-### 最佳实践
-```markdown
-# 项目架构指南
-- 使用 TypeScript 进行类型安全
-- 遵循 ESLint 配置
-- 测试文件放在 `__tests__` 目录
-
-# 编码规范
-- 使用 Prettier 格式化代码
-- 提交消息使用常规提交格式
-- 组件命名使用 PascalCase
-```
-
-### 记忆管理命令
-```bash
-# 编辑记忆文件
-/memory
-
-# 快速添加记忆（使用 # 前缀）
-# 在聊天中输入以 # 开头的消息
-```
-
-## MCP 支持
-
-### 模型上下文协议功能
-- **外部工具**: 连接到外部工具和数据源
-- **多服务器**: 支持 stdio、SSE 和 HTTP 服务器
-- **OAuth 认证**: 安全连接到远程服务器
-- **资源引用**: 使用 "@" 提及外部资源
-
-### 服务器作用域
-1. **本地作用域**: 当前项目私有
-2. **项目作用域**: 通过 `.mcp.json` 文件共享
-3. **用户作用域**: 所有项目可用
-
-### 安全提醒
-⚠️ **警告**: 使用第三方 MCP 服务器需要自行承担风险。确保信任 MCP 服务器，特别是通过互联网通信的服务器。
-
-## 实用工具
-
-### 版本控制
-- **Git 集成**: 智能提交消息生成
-- **分支管理**: 并行工作流程支持
-- **合并冲突**: 自动解决复杂冲突
-
-### 代码分析
-- **静态分析**: 代码质量检查
-- **性能分析**: 识别性能瓶颈
-- **依赖分析**: 依赖关系可视化
-
-### 文档生成
-- **API 文档**: 自动生成 API 文档
-- **变更日志**: 智能生成更新记录
-- **README**: 项目文档自动化
-
-## 社区资源
-
-### 英文资源
-- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - 官方精选资源列表
-- [Claude Code GitHub](https://github.com/anthropics/claude-code) - 官方 GitHub 仓库
-- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - 官方最佳实践指南
-- [Claude Code SDK](https://docs.anthropic.com/zh-CN/docs/claude-code/sdk) - 开发者 SDK 文档
-
-### 社区工具
-- [Claude Command Suite](https://github.com/qdhenry/Claude-Command-Suite) - 专业斜杠命令集合
-- [ClaudeLog](https://github.com/InventorBlack/ClaudeLog) - 详细的知识库和技术指南
-- [Claude Code Commands](https://www.claudecode.io/commands) - 60+ 斜杠命令资源
-
-### 工作流程和知识指南
-- 探索社区贡献的工作流程
-- 学习最佳实践和使用技巧
-- 发现创新的使用方式
-- 分享实际应用场景
-
-### 扩展工具
-- **Hooks**: 自定义工作流程钩子
-- **Slash Commands**: 扩展命令功能
-- **CLAUDE.md Templates**: 各种项目模板
-- **MCP Servers**: 模型上下文协议服务器
-
-## 模板和示例
-
-### CLAUDE.md 模板
-- [React/Next.js 项目模板](./templates/frontend/react-nextjs.md) - 现代前端项目配置
-- [Python/FastAPI 模板](./templates/backend/python-fastapi.md) - 后端 API 项目配置
-- [更多模板](./templates/) - 各种项目类型的完整模板
-
-### 工作流程示例
-- [功能分支创建](./examples/slash-commands/version-control/create-feature-branch.md) - 自动化分支管理
-- [代码格式化钩子](./examples/hooks/formatting/prettier-hook.md) - 自动格式化代码
-- [更多示例](./examples/) - 实用的工作流程配置
-
-### 配置文件
-- 项目配置示例
-- 团队协作配置
-- 环境特定配置
-
-## 教程指南
-
-### 基础教程
-- [快速入门](./tutorials/basics/quick-start.md) - 5分钟快速上手指南
-- [基本概念](./tutorials/basics/concepts.md) - 核心概念详解
-- [常用命令](./tutorials/basics/commands.md) - 命令行使用指南
-
-### 进阶教程
-- [CLAUDE.md 最佳实践](./tutorials/advanced/claude-md-best-practices.md) - 项目记忆管理
-- [自定义工作流程](./tutorials/advanced/custom-workflows.md) - 创建专属工作流
-- [钩子系统](./tutorials/advanced/hooks-system.md) - 自动化任务执行
-
-### 实战案例
-- 全栈项目开发流程
-- 遗留代码重构指南
-- API 开发最佳实践
-- 前端组件库开发
-
-## 钩子和自动化
-
-### 钩子类型
-- **PreToolUse**: 工具调用前执行
-- **PostToolUse**: 工具调用后执行
-- **Notification**: 通知触发时执行
-- **Stop**: 主代理完成时执行
-- **SubagentStop**: 子代理完成时执行
-
-### 自动化场景
-- **代码格式化**: 文件编辑后自动格式化
-- **质量检查**: 自动运行 lint 和类型检查
-- **通知系统**: 自定义通知和反馈
-- **安全检查**: 自动安全扫描和合规检查
-
-### 配置示例
-```bash
-# 设置钩子
-/hooks
-
-# 选择钩子类型和配置脚本
-# 支持 bash、python、node 等脚本
-```
-
-## 斜杠命令
-
-### 版本控制
-- `/create-feature-branch` - 创建功能分支
-- `/finish-feature` - 完成功能开发
-- `/sync-branch` - 同步分支代码
-- `/create-pr` - 创建 Pull Request
-
-### 代码分析
-- `/analyze-performance` - 性能分析
-- `/security-audit` - 安全审计
-- `/code-quality` - 代码质量检查
-- `/dependency-check` - 依赖分析
-
-### 测试相关
-- `/run-tests` - 运行测试套件
-- `/test-coverage` - 测试覆盖率报告
-- `/create-test` - 创建测试文件
-- `/fix-failing-tests` - 修复失败测试
-
-### 文档生成
-- `/generate-docs` - 生成 API 文档
-- `/update-readme` - 更新 README
-- `/create-changelog` - 创建变更日志
-- `/document-code` - 添加代码注释
-
-### 自定义命令
-```bash
-# 创建项目级命令
-# 保存到 .claude/commands/
-
-# 创建用户级命令
-# 保存到 ~/.claude/commands/
-```
-
-## 最佳实践
-
-### CLAUDE.md 编写指南
-1. **保持简洁**: 使用短小的声明式要点
-2. **结构化内容**: 清晰的分类和层次
-3. **项目特定**: 针对具体项目的配置
-4. **持续更新**: 随项目发展不断完善
-
-### 工作流程优化
-1. **自动化重复任务**: 使用钩子和命令
-2. **标准化流程**: 团队共享配置
-3. **渐进式改进**: 逐步完善工作流程
-4. **监控和调整**: 定期评估效果
-
-### 团队协作
-1. **共享配置**: 统一的 CLAUDE.md 文件
-2. **文档规范**: 清晰的使用指南
-3. **培训支持**: 团队成员培训
-4. **反馈机制**: 持续改进流程
-
-### 性能优化
-1. **合理使用记忆**: 避免过长的 CLAUDE.md
-2. **选择性钩子**: 只在必要时使用钩子
-3. **缓存策略**: 合理使用缓存
-4. **监控资源**: 关注 token 使用情况
-
-## 企业集成
-
-### 云平台支持
-- **Amazon Bedrock**: 企业级安全部署
-- **Google Vertex AI**: 云端集成解决方案
-- **直连 API**: 无中间服务器的安全连接
-
-### 安全特性
-- **直接连接**: 查询直接发送到 Anthropic API
-- **无中间服务器**: 降低安全风险
-- **上下文感知**: 智能理解项目结构
-
-## 贡献指南
-
-我们欢迎社区贡献！请遵循以下准则：
-
-1. **Fork 仓库**: 创建您自己的分支
-2. **添加资源**: 确保资源质量和相关性
-3. **描述清晰**: 为每个资源提供简洁的中文描述
-4. **分类正确**: 将资源放在合适的分类中
-5. **测试链接**: 确保所有链接都有效
-6. **遵循格式**: 保持与现有条目的格式一致
-
-### 贡献类型
-- 📚 **文档翻译**: 将官方文档翻译成中文
-- 🛠️ **工具开发**: 开发 Claude Code 相关工具
-- 📖 **教程创作**: 编写使用教程和最佳实践
-- 🔧 **工作流程**: 分享实用的工作流程配置
-- 🎯 **用例分享**: 分享实际应用场景
-
-## 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
+# Awesome Claude Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> 精选的 Claude Code 相关仓库、工具和资源列表
+
+**作者：** 云中江树，微信公众号「云中江树」
+
+Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端中，理解你的代码库，并通过执行复杂的编程任务帮助你更快地编码。
+
+[English](awesome-claude-code-README-EN.md) | 简体中文
+
+## 📋 目录
+
+- [官方仓库](#官方仓库)
+- [核心扩展与集成](#核心扩展与集成)
+- [GUI 和 Web 界面](#gui-和-web-界面)
+- [IDE 和编辑器扩展](#ide-和编辑器扩展)
+- [开发工具与实用程序](#开发工具与实用程序)
+- [监控与分析](#监控与分析)
+- [代理与 API 工具](#代理与-api-工具)
+- [框架扩展](#框架扩展)
+- [MCP 服务器与插件](#mcp-服务器与插件)
+- [指南与文档](#指南与文档)
+
+## 官方仓库
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-code](https://github.com/anthropics/claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code) | 官方 Claude Code 终端智能编程助手 | Anthropic 官方发布|
+|[claude-code-action](https://github.com/anthropics/claude-code-action) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-action) | Claude Code 的 GitHub Actions 集成 | 官方 CI/CD 集成|
+|[claude-code-base-action](https://github.com/anthropics/claude-code-base-action) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-base-action) | base-action 内容的镜像仓库 | 官方基础操作|
+|[claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-sdk-python) | 官方 Python SDK | 官方 Python 支持|
+|[devcontainer-features](https://github.com/anthropics/devcontainer-features) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/devcontainer-features) | 包含 Claude Code CLI 的开发容器特性 | 官方容器支持|
+
+## 核心扩展与集成
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | ![GitHub Repo stars](https://badgen.net/github/stars/SuperClaude-Org/SuperClaude_Framework) | 增强 Claude Code 的配置框架，包含专用命令和认知角色 | 功能增强框架|
+|[claude-code-router](https://github.com/musistudio/claude-code-router) | ![GitHub Repo stars](https://badgen.net/github/stars/musistudio/claude-code-router) | 以 Claude Code 为基础的编程基础设施 | 路由管理工具|
+|[analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) | ![GitHub Repo stars](https://badgen.net/github/stars/shareAI-lab/analysis_claude_code) | Claude Code v1.0.33 逆向工程完整研究分析 | 逆向工程分析|
+|[context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | ![GitHub Repo stars](https://badgen.net/github/stars/coleam00/context-engineering-intro) | 上下文工程介绍 - AI 编程助手的新编程方式 | 上下文工程指南|
+|[claudia](https://github.com/getAsterisk/claudia) | ![GitHub Repo stars](https://badgen.net/github/stars/getAsterisk/claudia) | 强大的 Claude Code GUI 应用和工具包 | GUI 管理工具|
+|[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/hesreallyhim/awesome-claude-code) | Claude Code 精选命令、文件和工作流列表 | 资源集合|
+
+## GUI 和 Web 界面
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claudecodeui](https://github.com/siteboon/claudecodeui) | ![GitHub Repo stars](https://badgen.net/github/stars/siteboon/claudecodeui) | 在移动端和 Web 上使用 Claude Code 的 UI 界面 | 跨平台 Web UI|
+|[claude-code-webui](https://github.com/sugyan/claude-code-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/sugyan/claude-code-webui) | 支持流式聊天响应的 Claude CLI Web 界面 | 流式 Web 界面|
+|[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | VS Code 中的美观 Claude Code 聊天界面 | VS Code 聊天界面|
+|[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | 在浏览器中浏览和查看 Claude Code 会话历史 | 会话历史查看器|
+
+## IDE 和编辑器扩展
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-coder](https://github.com/kodu-ai/claude-coder) | ![GitHub Repo stars](https://badgen.net/github/stars/kodu-ai/claude-coder) | 居住在 IDE 中的自主编程代理 VSCode 扩展 | VS Code 扩展|
+|[claude-code.nvim](https://github.com/greggh/claude-code.nvim) | ![GitHub Repo stars](https://badgen.net/github/stars/greggh/claude-code.nvim) | Claude Code AI 助手与 Neovim 的无缝集成 | Neovim 集成|
+|[claudecode.nvim](https://github.com/coder/claudecode.nvim) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/claudecode.nvim) | Claude Code Neovim IDE 扩展 | Neovim IDE 扩展|
+|[claude-code.el](https://github.com/stevemolitor/claude-code.el) | ![GitHub Repo stars](https://badgen.net/github/stars/stevemolitor/claude-code.el) | Claude Code Emacs 集成 | Emacs 集成|
+|[claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) | ![GitHub Repo stars](https://badgen.net/github/stars/manzaltu/claude-code-ide.el) | Emacs 的 Claude Code IDE 集成 | Emacs IDE 集成|
+|[claude-code-zed](https://github.com/jiahaoxiang2000/claude-code-zed) | ![GitHub Repo stars](https://badgen.net/github/stars/jiahaoxiang2000/claude-code-zed) | Claude Code CLI 集成的 Zed 编辑器扩展 | Zed 编辑器扩展|
+|[claudemacs](https://github.com/cpoile/claudemacs) | ![GitHub Repo stars](https://badgen.net/github/stars/cpoile/claudemacs) | 在 Emacs 中与 Claude Code 进行 AI 结对编程 | Emacs AI 编程|
+
+## 开发工具与实用程序
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | 将代码库转换为单个 LLM 提示的 CLI 工具 | 代码转提示工具|
+|[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | 开源 AI 编程助手，用于规划、构建和修复代码 | 开源 AI 助手|
+|[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | Claude Code + 多模型整合的强大组合 | MCP 服务器|
+|[ccusage](https://github.com/ryoppippi/ccusage) | ![GitHub Repo stars](https://badgen.net/github/stars/ryoppippi/ccusage) | 分析本地 JSONL 文件中 Claude Code 使用情况的 CLI 工具 | 使用情况分析|
+|[codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | ![GitHub Repo stars](https://badgen.net/github/stars/olimorris/codecompanion.nvim) | 在 Neovim 中的 AI 驱动编程体验 | Neovim AI 编程|
+|[crystal](https://github.com/stravu/crystal) | ![GitHub Repo stars](https://badgen.net/github/stars/stravu/crystal) | 在并行 git 工作树中运行多个 Claude Code AI 会话 | 并行会话管理|
+|[dotai](https://github.com/udecode/dotai) | ![GitHub Repo stars](https://badgen.net/github/stars/udecode/dotai) | 终极 AI 开发栈：Claude Code + Task Master + Cursor | AI 开发栈|
+|[ccseva](https://github.com/Iamshankhadeep/ccseva) | ![GitHub Repo stars](https://badgen.net/github/stars/Iamshankhadeep/ccseva) | 实时跟踪 Claude Code 使用情况的美观 macOS 菜单栏应用 | macOS 监控应用|
+|[ccundo](https://github.com/RonitSachdev/ccundo) | ![GitHub Repo stars](https://badgen.net/github/stars/RonitSachdev/ccundo) | 为 Claude Code 提供细粒度撤销功能 | 撤销功能工具|
+
+## 监控与分析
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | ![GitHub Repo stars](https://badgen.net/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor) | 实时 Claude Code 使用监控器，带预测和警告功能 | 实时监控工具|
+|[sniffly](https://github.com/chiphuyen/sniffly) | ![GitHub Repo stars](https://badgen.net/github/stars/chiphuyen/sniffly) | Claude Code 仪表板，包含使用统计和错误分析 | 分析仪表板|
+|[claude-code-log](https://github.com/daaain/claude-code-log) | ![GitHub Repo stars](https://badgen.net/github/stars/daaain/claude-code-log) | 将 Claude Code 转录 JSONL 文件转换为可读 HTML 格式 | 日志转换工具|
+|[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Claude Code 使用成本跟踪 | 成本跟踪工具|
+|[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | 将 Claude Code 聊天会话导出为 markdown 和 XML | 会话导出工具|
+|[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | 监控 Claude Code 使用情况、性能和成本的综合可观测性解决方案 | 可观测性解决方案|
+
+## 代理与 API 工具
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-code-proxy](https://github.com/1rgs/claude-code-proxy) | ![GitHub Repo stars](https://badgen.net/github/stars/1rgs/claude-code-proxy) | 在 OpenAI 模型上运行 Claude Code | OpenAI 代理|
+|[claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | ![GitHub Repo stars](https://badgen.net/github/stars/fuergaosi233/claude-code-proxy) | Claude Code 到 OpenAI API 代理 | API 代理服务|
+|[claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | ![GitHub Repo stars](https://badgen.net/github/stars/Wei-Shaw/claude-relay-service) | 自建 Claude code 镜像服务，支持多账户切换 | 中继服务|
+|[claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq) | ![GitHub Repo stars](https://badgen.net/github/stars/fakerybakery/claude-code-kimi-groq) | 通过 Groq 在 Claude Code 上使用 Kimi K2 的基本代理 | Kimi 代理|
+|[y-router](https://github.com/luohy15/y-router) | ![GitHub Repo stars](https://badgen.net/github/stars/luohy15/y-router) | 使 Claude Code 能够与 OpenRouter 配合工作的简单代理 | OpenRouter 代理|
+|[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | Claude Code 的 OpenAI API 兼容包装器 | OpenAI 兼容包装|
+|[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | 与任意 LLM 配合使用的 Claude Code | 多模型支持|
+|[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | 支持任意 LLM 提供商的 Claude Code | 开放式 LLM 支持|
+
+## 框架扩展
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/czlonkowski/n8n-mcp) | 为 Claude Desktop/Code 构建 n8n 工作流的 MCP | n8n 工作流集成|
+|[claude-flow](https://github.com/ruvnet/claude-flow) | ![GitHub Repo stars](https://badgen.net/github/stars/ruvnet/claude-flow) | AI 驱动开发编排的革命性飞跃 | 开发编排框架|
+|[claude-squad](https://github.com/smtg-ai/claude-squad) | ![GitHub Repo stars](https://badgen.net/github/stars/smtg-ai/claude-squad) | 管理多个 AI 终端代理，如 Claude Code、Aider 等 | 多代理管理|
+|[awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dontriskit/awesome-ai-system-prompts) | 顶级 AI 工具的系统提示精选集合 | 提示工程集合|
+|[agent-rules](https://github.com/steipete/agent-rules) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/agent-rules) | 与 Claude Code 或 Cursor 等代理更好协作的规则和知识 | 代理协作规则|
+|[claude-on-rails](https://github.com/obie/claude-on-rails) | ![GitHub Repo stars](https://badgen.net/github/stars/obie/claude-on-rails) | 使用 Claude Code 的 Ruby on Rails 开发框架 | Rails 开发框架|
+|[claude-simone](https://github.com/Helmi/claude-simone) | ![GitHub Repo stars](https://badgen.net/github/stars/Helmi/claude-simone) | 使用 Claude Code 进行 AI 辅助开发的项目管理框架 | 项目管理框架|
+
+## MCP 服务器与插件
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[git-mcp](https://github.com/idosal/git-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/idosal/git-mcp) | 为任何 GitHub 项目提供免费开源远程 MCP 服务器 | Git 集成 MCP|
+|[codemcp](https://github.com/ezyang/codemcp) | ![GitHub Repo stars](https://badgen.net/github/stars/ezyang/codemcp) | Claude Desktop 的编程助手 MCP | 编程助手 MCP|
+|[claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/claude-code-mcp) | 将 Claude Code 作为一次性 MCP 服务器 | 嵌套代理 MCP|
+|[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | ![GitHub Repo stars](https://badgen.net/github/stars/doobidoo/mcp-memory-service) | 为 Claude 提供语义内存和持久存储功能的 MCP 服务器 | 内存服务 MCP|
+|[mcp-server](https://github.com/e2b-dev/mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/mcp-server) | 通过 MCP 为 Claude 提供 E2B 代码运行能力 | 代码执行 MCP|
+|[code-context](https://github.com/zilliztech/code-context) | ![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/code-context) | 语义代码搜索的 MCP 插件 | 代码搜索 MCP|
+|[mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/SDGLBL/mcp-claude-code) | Claude Code 功能的 MCP 实现 | 功能实现 MCP|
+|[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | 为 Claude Code 简化的 Gemini | Gemini 集成|
+|[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 轻量级 MCP 集成，为 Claude Code 带来 Gemini AI 功能 | 轻量级 Gemini 集成|
+|[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+
+## 指南与文档
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) | ![GitHub Repo stars](https://badgen.net/github/stars/rizethereum/claude-code-requirements-builder) | Claude Code 项目的需求构建工具 | 需求构建工具|
+|[claude-code-guide](https://github.com/zebbern/claude-code-guide) | ![GitHub Repo stars](https://badgen.net/github/stars/zebbern/claude-code-guide) | Claude 技巧和窍门的完整指南 | 使用指南|
+|[claude-code-templates](https://github.com/davila7/claude-code-templates) | ![GitHub Repo stars](https://badgen.net/github/stars/davila7/claude-code-templates) | 配置和监控 Claude Code 的 CLI 工具 | 配置模板|
+|[building-an-agentic-system](https://github.com/gerred/building-an-agentic-system) | ![GitHub Repo stars](https://badgen.net/github/stars/gerred/building-an-agentic-system) | 构建智能代理系统（如 Claude Code）的深度指南 | 代理系统指南|
+|[claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) | ![GitHub Repo stars](https://badgen.net/github/stars/wasabeef/claude-code-cookbook) | 让 Claude Code 更加便利使用的配置集 | 配置烹饪书|
+|[claude-code-guide](https://github.com/revfactory/claude-code-guide) | ![GitHub Repo stars](https://badgen.net/github/stars/revfactory/claude-code-guide) | 与 Claude Code 一起进行潮流编程 | 韩语指南|
+|[claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | ![GitHub Repo stars](https://badgen.net/github/stars/Njengah/claude-code-cheat-sheet) | Claude Code 技巧、窍门和工作流的终极集合 | 备忘单|
+|[Claude-React-Jumpstart](https://github.com/Bklieger/Claude-React-Jumpstart) | ![GitHub Repo stars](https://badgen.net/github/stars/Bklieger/Claude-React-Jumpstart) | 初学者本地运行 Claude 生成的 React 代码的分步指南 | React 快速开始|
+|[claude-code-training](https://github.com/kousen/claude-code-training) | ![GitHub Repo stars](https://badgen.net/github/stars/kousen/claude-code-training) | Claude Code 培训课程的幻灯片和演示 | 培训材料|
+
+## 其他工具与实用程序
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) | ![GitHub Repo stars](https://badgen.net/github/stars/LLM-Red-Team/kimi-cc) | 使用 Kimi 最新模型驱动你的 Claude Code | Kimi 模型集成|
+|[Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/Claude-Code-Development-Kit) | 大规模解决 Claude Code 的上下文管理问题 | 开发工具包|
+|[claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | ![GitHub Repo stars](https://badgen.net/github/stars/Pimzino/claude-code-spec-workflow) | Claude Code 的自动化规范驱动工作流 | 规范工作流|
+|[agentapi](https://github.com/coder/agentapi) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/agentapi) | Claude Code、Goose、Aider、Gemini 和 Codex 的 HTTP API | 多代理 API|
+|[claudebox](https://github.com/RchGrav/claudebox) | ![GitHub Repo stars](https://badgen.net/github/stars/RchGrav/claudebox) | 终极 Claude Code Docker 开发环境 | Docker 开发环境|
+|[ccmanager](https://github.com/kbwo/ccmanager) | ![GitHub Repo stars](https://badgen.net/github/stars/kbwo/ccmanager) | Claude Code/Gemini CLI/Codex CLI 会话管理器 | 会话管理器|
+|[claude-cmd](https://github.com/kiliczsh/claude-cmd) | ![GitHub Repo stars](https://badgen.net/github/stars/kiliczsh/claude-cmd) | Claude Code 命令管理器 | 命令管理器|
+|[code-graph-rag](https://github.com/vitali87/code-graph-rag) | ![GitHub Repo stars](https://badgen.net/github/stars/vitali87/code-graph-rag) | 比 Claude Code 或 Gemini CLI 更适合 Monorepos | Monorepo 工具|
+|[CodeWebChat](https://github.com/robertpiosik/CodeWebChat) | ![GitHub Repo stars](https://badgen.net/github/stars/robertpiosik/CodeWebChat) | 为所有人提供免费 AI 编程 | 免费 AI 编程|
+|[opencoder](https://github.com/ducan-ne/opencoder) | ![GitHub Repo stars](https://badgen.net/github/stars/ducan-ne/opencoder) | Claude Code 的替代方案 | 开源替代品|
+|[async-code](https://github.com/ObservedObserver/async-code) | ![GitHub Repo stars](https://badgen.net/github/stars/ObservedObserver/async-code) | 使用 Claude Code/CodeX CLI 并行执行多个任务 | 并行任务执行|
+|[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Cursor.sh IDE 的开源仪表板 | Cursor 监控面板|
+|[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Windows 版 Claude Code：无需 WSL，无需 Docker | Windows 原生支持|
+
+## 逆向工程与分析
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) | ![GitHub Repo stars](https://badgen.net/github/stars/ghuntley/claude-code-source-code-deobfuscation) | 官方 Claude Code npm 包的洁净室反混淆 | 源码反混淆|
+|[claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) | ![GitHub Repo stars](https://badgen.net/github/stars/Yuyz0112/claude-code-reverse) | 使用 LLM 逆向工程 Claude Code | 逆向工程研究|
+|[claude-code-induced-introspection](https://github.com/mo-haggag/claude-code-induced-introspection) | ![GitHub Repo stars](https://badgen.net/github/stars/mo-haggag/claude-code-induced-introspection) | Claude Code 通过诱导内省解释自身 | 内省分析|
+
+## SDK 与开发工具
+
+|名称|Stars|简介|备注|
+|-------|-------|-------|------|
+|[claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts) | ![GitHub Repo stars](https://badgen.net/github/stars/instantlyeasy/claude-code-sdk-ts) | 流畅的链式 TypeScript SDK | TypeScript SDK|
+|[claude-code-js](https://github.com/s-soroosh/claude-code-js) | ![GitHub Repo stars](https://badgen.net/github/stars/s-soroosh/claude-code-js) | Javascript 和 Typescript 的 Claude Code SDK | JS/TS SDK|
+|[claude-code-boost](https://github.com/yifanzz/claude-code-boost) | ![GitHub Repo stars](https://badgen.net/github/stars/yifanzz/claude-code-boost) | Claude Code 的钩子实用程序和智能自动批准 | 增强工具|
+|[claude-code-sandbox](https://github.com/textcortex/claude-code-sandbox) | ![GitHub Repo stars](https://badgen.net/github/stars/textcortex/claude-code-sandbox) | 在本地 Docker 容器中安全运行 Claude Code | 沙盒环境|
+|[claude-docker](https://github.com/VishalJ99/claude-docker) | ![GitHub Repo stars](https://badgen.net/github/stars/VishalJ99/claude-docker) | 具有完整权限和 Twilio 通知的 Claude Code Docker 容器 | Docker 容器|
+|[claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) | ![GitHub Repo stars](https://badgen.net/github/stars/Veraticus/claude-code-ntfy) | Claude Code 到 ntfy.sh 的桥接 | 通知桥接|
+|[ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/ben-vargas/ai-sdk-provider-claude-code) | Claude Code SDK 的 Vercel AI SDK 社区提供商 | Vercel AI SDK 集成|
 
 ---
 
-## 项目统计
+## 🤝 贡献
 
-📊 **当前规模**:
-- 🎯 **7+ 主流技术栈** CLAUDE.md 模板
-- ⚡ **50+ 实用斜杠命令** 覆盖开发全流程
-- 🔧 **30+ Hooks 配置** 实现自动化工作流
-- 📚 **完整教程体系** 从入门到高级
-- 🛡️ **安全最佳实践** 企业级安全指南
-- 🚀 **2024 最新特性** MCP 和 Hooks 深度集成
+发现了很棒的 Claude Code 相关项目？欢迎提交 Pull Request 贡献！
 
-## 快速统计
+## 📄 许可证
 
-| 类别 | 数量 | 覆盖范围 |
-|------|------|----------|
-| CLAUDE.md 模板 | 7+ | React, Vue, Angular, Django, FastAPI, Spring Boot, Go |
-| 斜杠命令 | 50+ | 测试、部署、安全、性能、文档、版本控制 |
-| Hooks 示例 | 30+ | 格式化、质量检查、安全扫描、性能监控 |
-| 教程文档 | 20+ | 基础、进阶、最佳实践、故障排除 |
-| 工作流程 | 15+ | 开发、测试、部署、监控完整流程 |
-
----
-
-**⭐ 如果这个资源对您有帮助，请给个 Star！**
-
-**🤝 欢迎提交 Issue 和 Pull Request 来完善这个列表！**
-
-**📢 加入讨论**: [GitHub Discussions](https://github.com/LangGPT/awesome-claude-code-zh/discussions) | [提交反馈](https://github.com/LangGPT/awesome-claude-code-zh/issues)
+本精选列表在 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) 许可证下发布。
