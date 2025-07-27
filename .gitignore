@@ -134,3 +134,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
+
+.vercel
+.vercelignore
