@@ -1,3 +1,5 @@
+我来帮你将文件2中的新项目补充到文件1中，保持原有格式：
+
 # Awesome Claude Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of amazing Claude Code related repositories, tools, and resources
@@ -30,6 +32,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-base-action](https://github.com/anthropics/claude-code-base-action) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-base-action) | Mirror repo of base-action contents | Official base actions|
 |[claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-sdk-python) | Official Python SDK for Claude Code | Official Python support|
 |[devcontainer-features](https://github.com/anthropics/devcontainer-features) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/devcontainer-features) | Dev Container Features including Claude Code CLI | Official container support|
+|[claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-security-review) | AI-powered security review GitHub Action using Claude | Official security integration|
 
 ## Core Extensions & Integrations
 
@@ -50,6 +53,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-webui](https://github.com/sugyan/claude-code-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/sugyan/claude-code-webui) | Web-based interface for Claude CLI with streaming chat responses | Streaming Web interface|
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | Beautiful Claude Code Chat Interface for VS Code | VS Code chat interface|
 |[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | Browse and view Claude Code session history in browser | Session history viewer|
+|[opcode](https://github.com/winfunc/opcode) | ![GitHub Repo stars](https://badgen.net/github/stars/winfunc/opcode) | Powerful GUI app and Toolkit for Claude Code with custom agents and interactive sessions | Advanced GUI toolkit|
 
 ## IDE & Editor Extensions
 
@@ -76,6 +80,10 @@ English | [简体中文](README-CN.md)
 |[dotai](https://github.com/udecode/dotai) | ![GitHub Repo stars](https://badgen.net/github/stars/udecode/dotai) | Ultimate AI development stack: Claude Code + Task Master + Cursor | AI development stack|
 |[ccseva](https://github.com/Iamshankhadeep/ccseva) | ![GitHub Repo stars](https://badgen.net/github/stars/Iamshankhadeep/ccseva) | Beautiful macOS menu bar app for tracking Claude Code usage in real-time | macOS monitoring app|
 |[ccundo](https://github.com/RonitSachdev/ccundo) | ![GitHub Repo stars](https://badgen.net/github/stars/RonitSachdev/ccundo) | Provides granular undo functionality for Claude Code | Undo functionality tool|
+|[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![GitHub Repo stars](https://badgen.net/github/stars/disler/claude-code-hooks-mastery) | Master Claude Code hooks for advanced automation | Hooks mastery guide|
+|[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
+|[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
+|[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
 
 ## Monitoring & Analytics
 
@@ -112,6 +120,13 @@ English | [简体中文](README-CN.md)
 |[agent-rules](https://github.com/steipete/agent-rules) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/agent-rules) | Rules and knowledge to work better with agents like Claude Code or Cursor | Agent collaboration rules|
 |[claude-on-rails](https://github.com/obie/claude-on-rails) | ![GitHub Repo stars](https://badgen.net/github/stars/obie/claude-on-rails) | Development framework for Ruby on Rails developers using Claude Code | Rails development framework|
 |[claude-simone](https://github.com/Helmi/claude-simone) | ![GitHub Repo stars](https://badgen.net/github/stars/Helmi/claude-simone) | Project management framework for AI-assisted development with Claude Code | Project management framework|
+|[awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ![GitHub Repo stars](https://badgen.net/github/stars/VoltAgent/awesome-claude-code-subagents) | Production-ready Claude subagents collection with 100+ specialized AI agents | Subagents collection|
+|[agents](https://github.com/wshobson/agents) | ![GitHub Repo stars](https://badgen.net/github/stars/wshobson/agents) | Intelligent automation and multi-agent orchestration for Claude Code | Multi-agent orchestration|
+|[claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) | ![GitHub Repo stars](https://badgen.net/github/stars/davepoon/claude-code-subagents-collection) | Claude Code Subagents & Commands Collection + CLI Tool | Subagents CLI tool|
+|[awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/vijaythecoder/awesome-claude-agents) | Orchestrated sub agent dev team powered by claude code | Sub agent dev team|
+|[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
+|[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
+|[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
 
 ## MCP Servers & Plugins
 
@@ -141,6 +156,14 @@ English | [简体中文](README-CN.md)
 |[claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | ![GitHub Repo stars](https://badgen.net/github/stars/Njengah/claude-code-cheat-sheet) | Ultimate collection of Claude Code tips, tricks, and workflows | Cheat sheet|
 |[Claude-React-Jumpstart](https://github.com/Bklieger/Claude-React-Jumpstart) | ![GitHub Repo stars](https://badgen.net/github/stars/Bklieger/Claude-React-Jumpstart) | Step-by-step guide for beginners to run Claude-generated React code locally | React quickstart|
 |[claude-code-training](https://github.com/kousen/claude-code-training) | ![GitHub Repo stars](https://badgen.net/github/stars/kousen/claude-code-training) | Slides and demos for Claude Code training course | Training materials|
+|[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | ![GitHub Repo stars](https://badgen.net/github/stars/diet103/claude-code-infrastructure-showcase) | Examples of Claude Code infrastructure with skill auto-activation, hooks, and agents | Infrastructure examples|
+|[claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) | ![GitHub Repo stars](https://badgen.net/github/stars/OneRedOak/claude-code-workflows) | Best workflows and configurations developed from heavy usage | Workflow collection|
+|[claude-code-guide](https://github.com/Cranot/claude-code-guide) | ![GitHub Repo stars](https://badgen.net/github/stars/Cranot/claude-code-guide) | Claude Code Comprehensive Guide | Comprehensive guide|
+|[sc-claude-code-files](https://github.com/https-deeplearning-ai/sc-claude-code-files) | ![GitHub Repo stars](https://badgen.net/github/stars/https-deeplearning-ai/sc-claude-code-files) | DeepLearning.AI Claude Code course files | Course materials|
+|[claude-code-mastering](https://github.com/revfactory/claude-code-mastering) | ![GitHub Repo stars](https://badgen.net/github/stars/revfactory/claude-code-mastering) | Mastering Claude Code techniques | Mastering guide|
+|[my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | ![GitHub Repo stars](https://badgen.net/github/stars/centminmod/my-claude-code-setup) | Shared starter template configuration and CLAUDE.md memory bank system | Setup template|
+|[claude-code-settings](https://github.com/feiskyer/claude-code-settings) | ![GitHub Repo stars](https://badgen.net/github/stars/feiskyer/claude-code-settings) | Claude Code settings, commands and agents for vibe coding | Settings collection|
+|[cc](https://github.com/kn1026/cc) | ![GitHub Repo stars](https://badgen.net/github/stars/kn1026/cc) | Claude code system prompt | System prompt|
 
 ## Additional Tools & Utilities
 
@@ -159,6 +182,7 @@ English | [简体中文](README-CN.md)
 |[async-code](https://github.com/ObservedObserver/async-code) | ![GitHub Repo stars](https://badgen.net/github/stars/ObservedObserver/async-code) | Use Claude Code/CodeX CLI to perform multiple tasks in parallel | Parallel task execution|
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Open-source dashboard for Cursor.sh IDE | Cursor monitoring panel|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Claude Code for Windows: No WSL. No Docker. Just code. | Windows native support|
+|[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | A powerful AI coding agent built for the terminal | AI coding agent (archived)|
 
 ## Reverse Engineering & Analysis
 
