@@ -81,6 +81,7 @@ English | [简体中文](README-CN.md)
 |[ccseva](https://github.com/Iamshankhadeep/ccseva) | ![GitHub Repo stars](https://badgen.net/github/stars/Iamshankhadeep/ccseva) | Beautiful macOS menu bar app for tracking Claude Code usage in real-time | macOS monitoring app|
 |[ccundo](https://github.com/RonitSachdev/ccundo) | ![GitHub Repo stars](https://badgen.net/github/stars/RonitSachdev/ccundo) | Provides granular undo functionality for Claude Code | Undo functionality tool|
 |[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![GitHub Repo stars](https://badgen.net/github/stars/disler/claude-code-hooks-mastery) | Master Claude Code hooks for advanced automation | Hooks mastery guide|
+|[Mantra](https://mantra.gonewx.com) | - | AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions | Session management tool|
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
