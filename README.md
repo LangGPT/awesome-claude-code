@@ -34,6 +34,8 @@ English | [简体中文](README-CN.md)
 |[devcontainer-features](https://github.com/anthropics/devcontainer-features) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/devcontainer-features) | Dev Container Features including Claude Code CLI | Official container support|
 |[claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-security-review) | AI-powered security review GitHub Action using Claude | Official security integration|
 
+|[openpaw](https://github.com/daxaur/openpaw) | ![GitHub Repo stars](https://badgen.net/github/stars/daxaur/openpaw) | Open-source CLI tool (npx pawmode) that turns Claude Code into a personal assistant with 38 skills | No daemon, no cloud, MIT licensed|
+
 ## Core Extensions & Integrations
 
 |Name|Stars|Description|Notes|
