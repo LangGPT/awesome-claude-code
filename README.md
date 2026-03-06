@@ -175,6 +175,7 @@ English | [简体中文](README-CN.md)
 |[agentapi](https://github.com/coder/agentapi) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/agentapi) | HTTP API for Claude Code, Goose, Aider, Gemini, and Codex | Multi-agent API|
 |[claudebox](https://github.com/RchGrav/claudebox) | ![GitHub Repo stars](https://badgen.net/github/stars/RchGrav/claudebox) | Ultimate Claude Code Docker development environment | Docker development environment|
 |[ccmanager](https://github.com/kbwo/ccmanager) | ![GitHub Repo stars](https://badgen.net/github/stars/kbwo/ccmanager) | Claude Code/Gemini CLI/Codex CLI Session Manager | Session manager|
+|[openpaw](https://github.com/daxaur/openpaw) | ![GitHub Repo stars](https://badgen.net/github/stars/daxaur/openpaw) | Local-first assistant wizard for Claude Code with reusable skills, scheduling, dashboard tasks, Telegram control, and focus mode | Personal assistant toolkit|
 |[claude-cmd](https://github.com/kiliczsh/claude-cmd) | ![GitHub Repo stars](https://badgen.net/github/stars/kiliczsh/claude-cmd) | Claude Code Commands Manager | Command manager|
 |[code-graph-rag](https://github.com/vitali87/code-graph-rag) | ![GitHub Repo stars](https://badgen.net/github/stars/vitali87/code-graph-rag) | Better than Claude Code or Gemini CLI for Monorepos | Monorepo tool|
 |[CodeWebChat](https://github.com/robertpiosik/CodeWebChat) | ![GitHub Repo stars](https://badgen.net/github/stars/robertpiosik/CodeWebChat) | Free AI coding for the rest of us | Free AI coding|
