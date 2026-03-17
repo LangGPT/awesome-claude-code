@@ -114,6 +114,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/czlonkowski/n8n-mcp) | 用于 Claude Desktop/Code 构建 n8n 工作流的 MCP | n8n 工作流集成|
 |[claude-flow](https://github.com/ruvnet/claude-flow) | ![GitHub Repo stars](https://badgen.net/github/stars/ruvnet/claude-flow) | AI 驱动的开发编排的革命性飞跃 | 开发编排框架|
 |[claude-squad](https://github.com/smtg-ai/claude-squad) | ![GitHub Repo stars](https://badgen.net/github/stars/smtg-ai/claude-squad) | 管理多个 AI 终端代理，如 Claude Code、Aider 等 | 多代理管理|
+|[ORCH](https://github.com/oxgeneral/ORCH) | ![GitHub Repo stars](https://badgen.net/github/stars/oxgeneral/ORCH) | CLI运行时，将Claude Code、OpenCode (Codex/Gemini)、Cursor协调为AI代理团队，具有状态机、自动重试、代理间消息传递、TUI仪表盘。1647个测试，MIT，TypeScript | 多代理编排运行时|
 |[awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dontriskit/awesome-ai-system-prompts) | 顶级 AI 工具的系统提示精选集 | 提示工程合集|
 |[agent-rules](https://github.com/steipete/agent-rules) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/agent-rules) | 更好地与 Claude Code 或 Cursor 等代理协作的规则和知识 | 代理协作规则|
 |[claude-on-rails](https://github.com/obie/claude-on-rails) | ![GitHub Repo stars](https://badgen.net/github/stars/obie/claude-on-rails) | 使用 Claude Code 的 Ruby on Rails 开发者开发框架 | Rails 开发框架|
