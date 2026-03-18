@@ -127,6 +127,7 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
+|[product-manager-skills](https://github.com/Digidai/product-manager-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/Digidai/product-manager-skills) | Senior PM agent with 6 knowledge domains, 30+ frameworks, and 32 SaaS metrics | Product management skills|
 
 ## MCP Servers & Plugins
 
