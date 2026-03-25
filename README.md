@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[openclaw-self-healing](https://github.com/Ramsbaby/openclaw-self-healing) | ![GitHub Repo stars](https://badgen.net/github/stars/Ramsbaby/openclaw-self-healing) | Self-healing infrastructure for Claude Code AI agents — auto-recovers from failures via 4-tier escalation (watchdog, health checks, AI diagnosis, alerts) | Self-healing infrastructure|
 
 ## Proxy & API Tools
 
@@ -127,6 +128,8 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
+|[openclaw-memorybox](https://github.com/Ramsbaby/openclaw-memorybox) | ![GitHub Repo stars](https://badgen.net/github/stars/Ramsbaby/openclaw-memorybox) | Persistent memory & skill storage for Claude Code — saves context across sessions via slash commands | Persistent memory system|
+|[openclaw-self-evolving](https://github.com/Ramsbaby/openclaw-self-evolving) | ![GitHub Repo stars](https://badgen.net/github/stars/Ramsbaby/openclaw-self-evolving) | AI agent that analyzes its own codebase and generates weekly self-improvement proposals as GitHub Issues | Self-evolving agent|
 
 ## MCP Servers & Plugins
 
