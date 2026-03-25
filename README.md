@@ -204,6 +204,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) | ![GitHub Repo stars](https://badgen.net/github/stars/Veraticus/claude-code-ntfy) | Claude Code bridge to ntfy.sh | Notification bridge|
 |[ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/ben-vargas/ai-sdk-provider-claude-code) | Vercel AI SDK community provider for Claude Code SDK | Vercel AI SDK integration|
 |[RchGrav/claudebox](https://github.com/RchGrav/claudebox) | ![GitHub Repo stars](https://badgen.net/github/stars/RchGrav/claudebox) | The Ultimate Claude Code Docker Development Environment - Run Claude AI's coding assistant in a fully containerized, reproducible environment with pre-configured development profiles. | Claude Code Docker Development Environment|
+|[claw-army/claude-node](https://github.com/claw-army/claude-node) | | Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json. | Python bridge |
 ---
 
 ## 🤝 Contributing
