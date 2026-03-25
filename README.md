@@ -145,6 +145,7 @@ English | [简体中文](README-CN.md)
 
 ## Guides & Documentation
 
+- **[claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint)** - Battle-tested reference architecture with specialized agents, natural-language skills, lifecycle hooks, starter presets, benchmarks, battle stories, and cross-tool mapping for Cursor/Codex/Gemini/Windsurf. MIT licensed.
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
 |[claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) | ![GitHub Repo stars](https://badgen.net/github/stars/rizethereum/claude-code-requirements-builder) | Requirements building tool for Claude Code projects | Requirements building tool|
