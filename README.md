@@ -108,6 +108,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
+|[claude-code-aws-gateway](https://github.com/antkawam/claude-code-aws-gateway) | ![GitHub Repo stars](https://badgen.net/github/stars/antkawam/claude-code-aws-gateway) | Self-hosted API gateway routing Claude Code through Amazon Bedrock with team API keys, budgets, rate limits, and OIDC SSO | Bedrock gateway|
 
 ## Framework Extensions
 
