@@ -83,6 +83,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![GitHub Repo stars](https://badgen.net/github/stars/disler/claude-code-hooks-mastery) | Master Claude Code hooks for advanced automation | Hooks mastery guide|
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
+|[telegram-ai-bridge](https://github.com/AliceLJY/telegram-ai-bridge) | ![GitHub Repo stars](https://badgen.net/github/stars/AliceLJY/telegram-ai-bridge) | Run N parallel Claude Code sessions from Telegram with War Room mode, per-bot personas, and A2A multi-agent collaboration | Telegram bridge|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
 
 ## Monitoring & Analytics
