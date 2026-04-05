@@ -81,6 +81,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![GitHub Repo stars](https://badgen.net/github/stars/disler/claude-code-hooks-mastery) | 掌握 Claude Code hooks 以实现高级自动化 | Hooks 精通指南|
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Claude Code 通信工具 | 通信工具|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | 通过电子邮件、discord、telegram 远程控制 Claude Code | 远程控制工具|
+|[telegram-ai-bridge](https://github.com/AliceLJY/telegram-ai-bridge) | ![GitHub Repo stars](https://badgen.net/github/stars/AliceLJY/telegram-ai-bridge) | 通过 Telegram 运行 N 个并行 Claude Code 会话，支持 War Room 模式、A2A 多智能体协作 | Telegram 桥接|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Claude code 和 Codex 的零配置代码流 | 零配置工作流|
 
 ## 监控与分析
