@@ -164,6 +164,7 @@ English | [简体中文](README-CN.md)
 |[my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | ![GitHub Repo stars](https://badgen.net/github/stars/centminmod/my-claude-code-setup) | Shared starter template configuration and CLAUDE.md memory bank system | Setup template|
 |[claude-code-settings](https://github.com/feiskyer/claude-code-settings) | ![GitHub Repo stars](https://badgen.net/github/stars/feiskyer/claude-code-settings) | Claude Code settings, commands and agents for vibe coding | Settings collection|
 |[cc](https://github.com/kn1026/cc) | ![GitHub Repo stars](https://badgen.net/github/stars/kn1026/cc) | Claude code system prompt | System prompt|
+|[guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/milkomida77/guardian-agent-prompts) | 49 production-tested AGENT.md system prompts from a 57-agent system running 24/7 for 6+ months | Multi-agent system prompts|
 
 ## Additional Tools & Utilities
 
