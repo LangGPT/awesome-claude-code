@@ -114,6 +114,7 @@ English | [简体中文](README-CN.md)
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
 |[n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/czlonkowski/n8n-mcp) | MCP for Claude Desktop/Code to build n8n workflows | n8n workflow integration|
+|[claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/cognyai/claude-code-marketing-skills) | AI marketing skills: SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free + premium via Cogny MCP | Marketing skills|
 |[claude-flow](https://github.com/ruvnet/claude-flow) | ![GitHub Repo stars](https://badgen.net/github/stars/ruvnet/claude-flow) | Revolutionary leap in AI-powered development orchestration | Development orchestration framework|
 |[claude-squad](https://github.com/smtg-ai/claude-squad) | ![GitHub Repo stars](https://badgen.net/github/stars/smtg-ai/claude-squad) | Manage multiple AI terminal agents like Claude Code, Aider, etc. | Multi-agent management|
 |[awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dontriskit/awesome-ai-system-prompts) | Curated collection of system prompts for top AI tools | Prompt engineering collection|
