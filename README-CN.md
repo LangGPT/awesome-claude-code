@@ -52,6 +52,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | 美观的 VS Code Claude Code 聊天界面 | VS Code 聊天界面|
 |[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | 在浏览器中浏览和查看 Claude Code 会话历史 | 会话历史查看器|
 |[opcode](https://github.com/winfunc/opcode) | ![GitHub Repo stars](https://badgen.net/github/stars/winfunc/opcode) | 强大的 Claude Code GUI 应用和工具包，支持自定义代理和交互式会话 | 高级 GUI 工具包|
+|[cchub](https://github.com/Moresl/cchub) | ![GitHub Repo stars](https://badgen.net/github/stars/Moresl/cchub) | Claude Code 全生态管理平台：MCP 市场、配置切换、技能、工作流、安全审计、自动驾驶 | Tauri v2 + React + Rust 桌面应用|
 
 ## IDE与编辑器扩展
 
