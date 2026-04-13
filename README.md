@@ -183,6 +183,7 @@ English | [简体中文](README-CN.md)
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Open-source dashboard for Cursor.sh IDE | Cursor monitoring panel|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Claude Code for Windows: No WSL. No Docker. Just code. | Windows native support|
 |[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | A powerful AI coding agent built for the terminal | AI coding agent (archived)|
+|[fabbo-ai-generator](https://github.com/fabbo-ai/fabbo-ai-generator) | ![GitHub Repo stars](https://badgen.net/github/stars/fabbo-ai/fabbo-ai-generator) | Claude Code / Codex skill that drives a real Playwright browser to generate AI videos and images on fabbo.ai across Veo, Sora, Kling, Wan, Luma, Runway, Midjourney, Nano Banana | AI video/image generator|
 
 ## Reverse Engineering & Analysis
 
