@@ -35,7 +35,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-security-review) | AI-powered security review GitHub Action using Claude | Official security integration|
 
 ## Core Extensions & Integrations
-- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. `npx @smorky85/aurakit`
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 46 modes, 23 sub-agents, 6-layer OWASP security, 10 lifecycle hooks, ~55% token savings. `npx @smorky85/aurakit`
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
