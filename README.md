@@ -85,6 +85,8 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
 
+|[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) | ![GitHub Repo stars](https://badgen.net/github/stars/theihtisham/agent-shadow-brain) | Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense | Development Tool|
+|[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) | ![GitHub Repo stars](https://badgen.net/github/stars/theihtisham/omni-skills-forge) | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update | Skills & Configuration|
 ## Monitoring & Analytics
 
 |Name|Stars|Description|Notes|
