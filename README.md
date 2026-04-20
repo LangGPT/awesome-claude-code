@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[burnd](https://github.com/garvitsurana271/burnd) | ![GitHub Repo stars](https://badgen.net/github/stars/garvitsurana271/burnd) | Local-first cost-control CLI that reads ~/.claude/projects/*.jsonl and finds 8 cost-leak patterns (Opus-on-routine-work, retry storms, context thrash, project outliers) with dollar-denominated fixes | Cost leak detector|
 
 ## Proxy & API Tools
 
@@ -203,7 +204,7 @@ English | [简体中文](README-CN.md)
 |[claude-docker](https://github.com/VishalJ99/claude-docker) | ![GitHub Repo stars](https://badgen.net/github/stars/VishalJ99/claude-docker) | Docker container for running Claude Code with full permissions | Docker container|
 |[claude-code-ntfy](https://github.com/Veraticus/claude-code-ntfy) | ![GitHub Repo stars](https://badgen.net/github/stars/Veraticus/claude-code-ntfy) | Claude Code bridge to ntfy.sh | Notification bridge|
 |[ai-sdk-provider-claude-code](https://github.com/ben-vargas/ai-sdk-provider-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/ben-vargas/ai-sdk-provider-claude-code) | Vercel AI SDK community provider for Claude Code SDK | Vercel AI SDK integration|
-
+|[RchGrav/claudebox](https://github.com/RchGrav/claudebox) | ![GitHub Repo stars](https://badgen.net/github/stars/RchGrav/claudebox) | The Ultimate Claude Code Docker Development Environment - Run Claude AI's coding assistant in a fully containerized, reproducible environment with pre-configured development profiles. | Claude Code Docker Development Environment|
 ---
 
 ## 🤝 Contributing
