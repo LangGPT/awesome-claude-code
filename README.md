@@ -72,6 +72,8 @@ English | [简体中文](README-CN.md)
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | CLI tool to convert codebase into single LLM prompt | Code-to-prompt tool|
+|[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) | ![GitHub Repo stars](https://badgen.net/github/stars/theihtisham/agent-shadow-brain) | Self-evolving AI coding intelligence with infinite memory, genetic evolution, predictive bug detection, and swarm intelligence | AI coding intelligence|
+|[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) | ![GitHub Repo stars](https://badgen.net/github/stars/theihtisham/omni-skills-forge) | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline | AI skills library|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | Open Source AI coding assistant for planning, building, and fixing code | Open source AI assistant|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | The power of Claude Code + multiple models working as one | MCP server|
 |[ccusage](https://github.com/ryoppippi/ccusage) | ![GitHub Repo stars](https://badgen.net/github/stars/ryoppippi/ccusage) | CLI tool for analyzing Claude Code usage from local JSONL files | Usage analysis|
