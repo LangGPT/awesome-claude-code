@@ -142,6 +142,7 @@ English | [简体中文](README-CN.md)
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
+|[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | ![GitHub Repo stars](https://badgen.net/github/stars/MohamedAbdallah-14/prompt-to-asset) | MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image models | Image generation MCP|
 
 ## Guides & Documentation
 
@@ -183,6 +184,7 @@ English | [简体中文](README-CN.md)
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Open-source dashboard for Cursor.sh IDE | Cursor monitoring panel|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Claude Code for Windows: No WSL. No Docker. Just code. | Windows native support|
 |[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | A powerful AI coding agent built for the terminal | AI coding agent (archived)|
+|[unslop](https://github.com/MohamedAbdallah-14/unslop) | ![GitHub Repo stars](https://badgen.net/github/stars/MohamedAbdallah-14/unslop) | Claude Code plugin that removes AI writing tells (tricolons, hedging stacks, sycophancy openers, stock vocab). Lint-only mode audits without rewriting | AI writing quality tool|
 
 ## Reverse Engineering & Analysis
 
