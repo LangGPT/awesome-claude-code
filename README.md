@@ -84,6 +84,7 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
+|[linear-cli](https://github.com/phnx-labs/linear-cli) | ![GitHub Repo stars](https://badgen.net/github/stars/phnx-labs/linear-cli) | Zero-dependency Python CLI for Linear issue tracking; works as a Claude Code skill | Issue tracking CLI|
 
 ## Monitoring & Analytics
 
