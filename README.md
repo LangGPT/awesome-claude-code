@@ -38,6 +38,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[Claude Code Skills 中文精选集](https://claude-skills.bt199.com/) | ![Website](https://img.shields.io/badge/website-online-brightgreen) | Chinese curated directory of Claude Code Skills, Agents and Plugins with 140+ resources and copy-ready install notes | Chinese skills directory|
 |[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | ![GitHub Repo stars](https://badgen.net/github/stars/SuperClaude-Org/SuperClaude_Framework) | Configuration framework enhancing Claude Code with specialized commands and cognitive personas | Feature enhancement framework|
 |[claude-code-router](https://github.com/musistudio/claude-code-router) | ![GitHub Repo stars](https://badgen.net/github/stars/musistudio/claude-code-router) | Use Claude Code as foundation for coding infrastructure | Routing management tool|
 |[analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) | ![GitHub Repo stars](https://badgen.net/github/stars/shareAI-lab/analysis_claude_code) | Complete reverse engineering research and analysis of Claude Code v1.0.33 | Reverse engineering analysis|

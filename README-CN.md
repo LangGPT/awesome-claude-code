@@ -36,6 +36,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 
 |名称|Stars|简介|备注|
 |-------|-------|-------|------|
+|[Claude Code Skills 中文精选集](https://claude-skills.bt199.com/) | ![Website](https://img.shields.io/badge/website-online-brightgreen) | 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选资源站，收录 140+ 资源与复制即装说明 | 中文技能导航|
 |[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | ![GitHub Repo stars](https://badgen.net/github/stars/SuperClaude-Org/SuperClaude_Framework) | 通过专门命令和认知角色增强 Claude Code 的配置框架 | 功能增强框架|
 |[claude-code-router](https://github.com/musistudio/claude-code-router) | ![GitHub Repo stars](https://badgen.net/github/stars/musistudio/claude-code-router) | 使用 Claude Code 作为编码基础设施的基础 | 路由管理工具|
 |[analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) | ![GitHub Repo stars](https://badgen.net/github/stars/shareAI-lab/analysis_claude_code) | 对 Claude Code v1.0.33 的完整逆向工程研究和分析 | 逆向工程分析|
