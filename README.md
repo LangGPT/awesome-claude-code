@@ -142,6 +142,7 @@ English | [简体中文](README-CN.md)
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
+|[locus-dev/mcp-server](https://github.com/jonybur/locus/tree/main/packages/mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/jonybur/locus) | MCP server for stories.yaml — version-controlled user stories AI assistants can read. 7 tools: get_active_story, list_stories, create_story, detect_drift, suggest_stories and more. Install: `npx @locus-dev/mcp-server` | Product intent MCP|
 
 ## Guides & Documentation
 
