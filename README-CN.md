@@ -82,6 +82,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Claude Code 通信工具 | 通信工具|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | 通过电子邮件、discord、telegram 远程控制 Claude Code | 远程控制工具|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Claude code 和 Codex 的零配置代码流 | 零配置工作流|
+|[mockhunter](https://github.com/CodeShuX/mockhunter) | ![GitHub Repo stars](https://badgen.net/github/stars/CodeShuX/mockhunter) | 一个 5 阶段 Playwright 技能,审计网页上的虚假/模拟数据;将每个值分类为 REAL/MOCK/LLM/HARDCODED/BROKEN | 模拟数据检测与网页审计|
 
 ## 监控与分析
 
