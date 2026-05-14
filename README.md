@@ -111,6 +111,7 @@ English | [简体中文](README-CN.md)
 
 ## Framework Extensions
 
+- [Septim Agents Pack](https://septimlabs.com/agents) - 10 named Claude Code sub-agents for ~/.claude/agents/ (full exec layer for solo founders). MIT sample at github.com/septimlabs-code/septim-agents-pack-sample.
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
 |[n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/czlonkowski/n8n-mcp) | MCP for Claude Desktop/Code to build n8n workflows | n8n workflow integration|
