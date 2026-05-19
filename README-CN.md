@@ -92,6 +92,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-log](https://github.com/daaain/claude-code-log) | ![GitHub Repo stars](https://badgen.net/github/stars/daaain/claude-code-log) | 将 Claude Code 转录 JSONL 文件转换为可读的 HTML 格式 | 日志转换工具|
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Claude Code 使用的成本跟踪 | 成本跟踪工具|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | 将 Claude Code 聊天会话导出为 markdown 和 XML | 会话导出工具|
+|[agenttrace](https://github.com/luoyuctl/agenttrace) | ![GitHub Repo stars](https://badgen.net/github/stars/luoyuctl/agenttrace) | 面向 Claude Code、Codex 和 Cursor 会话轨迹的本地优先 TUI 可观察性工具 | 会话可观察性|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | 监控 Claude Code 使用、性能和成本的综合可观察性解决方案 | 可观察性解决方案|
 
 ## 代理与API工具
