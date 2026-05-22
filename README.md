@@ -116,7 +116,6 @@ English | [简体中文](README-CN.md)
 |[n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/czlonkowski/n8n-mcp) | MCP for Claude Desktop/Code to build n8n workflows | n8n workflow integration|
 |[claude-flow](https://github.com/ruvnet/claude-flow) | ![GitHub Repo stars](https://badgen.net/github/stars/ruvnet/claude-flow) | Revolutionary leap in AI-powered development orchestration | Development orchestration framework|
 |[claude-squad](https://github.com/smtg-ai/claude-squad) | ![GitHub Repo stars](https://badgen.net/github/stars/smtg-ai/claude-squad) | Manage multiple AI terminal agents like Claude Code, Aider, etc. | Multi-agent management|
-|[Alfred](https://github.com/luminik-io/alfred-os) | ![GitHub Repo stars](https://badgen.net/github/stars/luminik-io/alfred-os) | Local agent-fleet runtime for Claude Code and Codex with GitHub issue claiming, isolated worktrees, host scheduling, Slack reports, and per-agent engine routing | Local agent fleet|
 |[awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | ![GitHub Repo stars](https://badgen.net/github/stars/dontriskit/awesome-ai-system-prompts) | Curated collection of system prompts for top AI tools | Prompt engineering collection|
 |[agent-rules](https://github.com/steipete/agent-rules) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/agent-rules) | Rules and knowledge to work better with agents like Claude Code or Cursor | Agent collaboration rules|
 |[claude-on-rails](https://github.com/obie/claude-on-rails) | ![GitHub Repo stars](https://badgen.net/github/stars/obie/claude-on-rails) | Development framework for Ruby on Rails developers using Claude Code | Rails development framework|
@@ -128,6 +127,7 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
+|[Alfred](https://github.com/luminik-io/alfred-os) | ![GitHub Repo stars](https://badgen.net/github/stars/luminik-io/alfred-os) | Local agent-fleet runtime for Claude Code and Codex with GitHub issue claiming, isolated worktrees, host scheduling, Slack reports, and per-agent engine routing | Local agent fleet|
 
 ## MCP Servers & Plugins
 
