@@ -127,7 +127,7 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
-|[Alfred](https://github.com/luminik-io/alfred-os) | ![GitHub Repo stars](https://badgen.net/github/stars/luminik-io/alfred-os) | Local agent-fleet runtime for Claude Code and Codex with GitHub issue claiming, isolated worktrees, host scheduling, Slack reports, and per-agent engine routing | Local agent fleet|
+|[Alfred](https://github.com/luminik-io/alfred-os) | ![GitHub Repo stars](https://badgen.net/github/stars/luminik-io/alfred-os) | Local runtime for autonomous repo teammates on Claude Code and Codex with GitHub issues/specs, isolated worktrees, PRs, reviews, tests, Slack reports, and per-agent engine routing | Local agent fleet|
 
 ## MCP Servers & Plugins
 
