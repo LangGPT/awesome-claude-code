@@ -183,6 +183,7 @@ English | [简体中文](README-CN.md)
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Open-source dashboard for Cursor.sh IDE | Cursor monitoring panel|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Claude Code for Windows: No WSL. No Docker. Just code. | Windows native support|
 |[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | A powerful AI coding agent built for the terminal | AI coding agent (archived)|
+|[capcut-cli](https://github.com/renezander030/capcut-cli) | ![GitHub Repo stars](https://badgen.net/github/stars/renezander030/capcut-cli) | Zero-dep CLI to edit CapCut and JianYing video drafts (draft_content.json). Subtitles, decorators, templates, long-form-to-shorts. Both namespaces in one binary. | Video automation CLI|
 
 ## Reverse Engineering & Analysis
 
