@@ -54,6 +54,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | Beautiful Claude Code Chat Interface for VS Code | VS Code chat interface|
 |[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | Browse and view Claude Code session history in browser | Session history viewer|
 |[opcode](https://github.com/winfunc/opcode) | ![GitHub Repo stars](https://badgen.net/github/stars/winfunc/opcode) | Powerful GUI app and Toolkit for Claude Code with custom agents and interactive sessions | Advanced GUI toolkit|
+|[Agent Teams](https://github.com/777genius/agent-teams-ai) | ![GitHub Repo stars](https://badgen.net/github/stars/777genius/agent-teams-ai) | Desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode where high-level commands turn into Kanban tasks, messages, code reviews, logs, and approvals handled by agents across 200+ models and 75+ LLM providers | Multi-agent desktop workspace|
 
 ## IDE & Editor Extensions
 
