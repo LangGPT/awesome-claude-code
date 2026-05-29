@@ -75,6 +75,7 @@ English | [简体中文](README-CN.md)
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | Open Source AI coding assistant for planning, building, and fixing code | Open source AI assistant|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | The power of Claude Code + multiple models working as one | MCP server|
 |[ccusage](https://github.com/ryoppippi/ccusage) | ![GitHub Repo stars](https://badgen.net/github/stars/ryoppippi/ccusage) | CLI tool for analyzing Claude Code usage from local JSONL files | Usage analysis|
+|[ccs](https://github.com/Ike-li/ccs) | ![GitHub Repo stars](https://badgen.net/github/stars/Ike-li/ccs) | Tiny Claude Code provider switcher for Anthropic-compatible endpoints | Provider switcher|
 |[codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | ![GitHub Repo stars](https://badgen.net/github/stars/olimorris/codecompanion.nvim) | AI-powered coding seamlessly in Neovim | Neovim AI coding|
 |[crystal](https://github.com/stravu/crystal) | ![GitHub Repo stars](https://badgen.net/github/stars/stravu/crystal) | Run multiple Claude Code AI sessions in parallel git worktrees | Parallel session management|
 |[dotai](https://github.com/udecode/dotai) | ![GitHub Repo stars](https://badgen.net/github/stars/udecode/dotai) | Ultimate AI development stack: Claude Code + Task Master + Cursor | AI development stack|
