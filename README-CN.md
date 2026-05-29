@@ -73,6 +73,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | 用于规划、构建和修复代码的开源 AI 编程助手 | 开源 AI 助手|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | Claude Code + 多个模型协同工作的力量 | MCP 服务器|
 |[ccusage](https://github.com/ryoppippi/ccusage) | ![GitHub Repo stars](https://badgen.net/github/stars/ryoppippi/ccusage) | 从本地 JSONL 文件分析 Claude Code 使用情况的 CLI 工具 | 使用情况分析|
+|[ccs](https://github.com/Ike-li/ccs) | ![GitHub Repo stars](https://badgen.net/github/stars/Ike-li/ccs) | 用于 Anthropic 兼容端点的轻量 Claude Code provider 切换工具 | Provider 切换|
 |[codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | ![GitHub Repo stars](https://badgen.net/github/stars/olimorris/codecompanion.nvim) | 在 Neovim 中无缝进行 AI 驱动的编程 | Neovim AI 编程|
 |[crystal](https://github.com/stravu/crystal) | ![GitHub Repo stars](https://badgen.net/github/stars/stravu/crystal) | 在并行 git worktrees 中运行多个 Claude Code AI 会话 | 并行会话管理|
 |[dotai](https://github.com/udecode/dotai) | ![GitHub Repo stars](https://badgen.net/github/stars/udecode/dotai) | 终极 AI 开发栈：Claude Code + Task Master + Cursor | AI 开发栈|
