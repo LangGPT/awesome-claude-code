@@ -104,6 +104,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq) | ![GitHub Repo stars](https://badgen.net/github/stars/fakerybakery/claude-code-kimi-groq) | 通过 Groq 在 Claude Code 上使用 Kimi K2 的基本代理 | Kimi 代理|
 |[y-router](https://github.com/luohy15/y-router) | ![GitHub Repo stars](https://badgen.net/github/stars/luohy15/y-router) | 使 Claude Code 能够与 OpenRouter 配合使用的简单代理 | OpenRouter 代理|
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | Claude Code 的 OpenAI API 兼容包装器 | OpenAI 兼容包装器|
+|[AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) | ![GitHub Repo stars](https://badgen.net/github/stars/SSC-STUDIO/Ai-Model-Gateway) | 面向 Claude Code `ANTHROPIC_BASE_URL` 路由的自托管网关，支持供应商回退、遥测和可回滚配置变更 | Claude Code 网关|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | 使用任何 LLM 的 Claude Code | 多模型支持|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | 使用任何 LLM 提供商的 Claude Code | 开放 LLM 支持|
 
