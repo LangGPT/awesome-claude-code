@@ -106,6 +106,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq) | ![GitHub Repo stars](https://badgen.net/github/stars/fakerybakery/claude-code-kimi-groq) | Basic proxy to use Kimi K2 on Claude Code through Groq | Kimi proxy|
 |[y-router](https://github.com/luohy15/y-router) | ![GitHub Repo stars](https://badgen.net/github/stars/luohy15/y-router) | Simple proxy enabling Claude Code to work with OpenRouter | OpenRouter proxy|
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
+|[AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) | ![GitHub Repo stars](https://badgen.net/github/stars/SSC-STUDIO/Ai-Model-Gateway) | Self-hosted gateway for Claude Code `ANTHROPIC_BASE_URL` routing with provider fallback, telemetry, and rollback-safe config changes | Claude Code gateway|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
 
