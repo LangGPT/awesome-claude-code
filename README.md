@@ -164,6 +164,7 @@ English | [简体中文](README-CN.md)
 |[my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | ![GitHub Repo stars](https://badgen.net/github/stars/centminmod/my-claude-code-setup) | Shared starter template configuration and CLAUDE.md memory bank system | Setup template|
 |[claude-code-settings](https://github.com/feiskyer/claude-code-settings) | ![GitHub Repo stars](https://badgen.net/github/stars/feiskyer/claude-code-settings) | Claude Code settings, commands and agents for vibe coding | Settings collection|
 |[cc](https://github.com/kn1026/cc) | ![GitHub Repo stars](https://badgen.net/github/stars/kn1026/cc) | Claude code system prompt | System prompt|
+|[claude-skills-cn](https://github.com/fanshanhong/claude-skills-cn) | ![GitHub Repo stars](https://badgen.net/github/stars/fanshanhong/claude-skills-cn) | 104+ Chinese deep-dive articles on Claude Code Skills (superpowers / omc / ecc / gstack). Live site: [claudeskill.me](https://claudeskill.me) | Chinese Skills tutorials|
 
 ## Additional Tools & Utilities
 
