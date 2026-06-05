@@ -108,6 +108,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
+|[CoderPlan](https://coderplan.ai) | ![website](https://img.shields.io/badge/website-coderplan.ai-blue) | OpenAI-compatible LLM API gateway for Claude Code, Cursor and AI coding tools | API relay / pay-per-use|
 
 ## Framework Extensions
 
