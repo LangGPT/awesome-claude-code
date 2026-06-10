@@ -127,6 +127,7 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
+|[agentops](https://github.com/baramgay/agentops) | ![GitHub Repo stars](https://badgen.net/github/stars/baramgay/agentops) | Production-ready multi-agent orchestration for Claude Code — 33 specialized agents, vertical command chain (OC→Lead→Specialist), live WebSocket dashboard, native issue tracker, and Obsidian-compatible wiki with MoC auto-indexing | Multi-agent orchestration framework|
 
 ## MCP Servers & Plugins
 
