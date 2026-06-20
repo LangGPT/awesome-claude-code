@@ -93,6 +93,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Claude Code 使用的成本跟踪 | 成本跟踪工具|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | 将 Claude Code 聊天会话导出为 markdown 和 XML | 会话导出工具|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | 监控 Claude Code 使用、性能和成本的综合可观察性解决方案 | 可观察性解决方案|
+|[ax](https://github.com/Necmttn/ax) | ![GitHub Repo stars](https://badgen.net/github/stars/Necmttn/ax) | 面向 Claude Code、Codex、Pi、OpenCode 和 Cursor 历史记录的本地优先遥测与记忆图，支持成本分析、工作流提取、仪表板和 MCP 访问 | 遥测与记忆图|
 
 ## 代理与API工具
 
