@@ -143,6 +143,7 @@ English | [简体中文](README-CN.md)
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
 |[proposalcraft](https://github.com/jabbawocky/proposalcraft) | ![GitHub Repo stars](https://badgen.net/github/stars/jabbawocky/proposalcraft) | MCP server for freelancers: paste a client brief, get a proposal drafted in your voice from past winning work. Free tier (5 drafts/month), no API key required | Freelance proposal MCP|
+|[standupcraft](https://github.com/jabbawocky/standupcraft) | ![GitHub Repo stars](https://badgen.net/github/stars/jabbawocky/standupcraft) | MCP server that reads git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key required | Developer standup MCP|
 
 ## Guides & Documentation
 
