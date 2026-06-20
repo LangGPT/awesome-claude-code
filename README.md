@@ -84,6 +84,7 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
+|[skilltotal](https://github.com/pezhik/skilltotal) | ![GitHub Repo stars](https://badgen.net/github/stars/pezhik/skilltotal) | Offline static security scanner for AI components (skills, MCP servers, npm/PyPI, repos); deterministic regex+AST, no LLM, JSON/SARIF, OWASP Agentic Skills Top 10 | AI security scanner|
 
 ## Monitoring & Analytics
 
