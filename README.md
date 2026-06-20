@@ -143,6 +143,8 @@ English | [简体中文](README-CN.md)
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
 
+|[EGC](https://github.com/Fmarzochi/EGC) | ![GitHub Repo stars](https://badgen.net/github/stars/Fmarzochi/EGC) | Persistent cross-session memory MCP server for Claude Code and 12 other AI coding tools. SQLite-backed state survives context resets. | Persistent memory MCP|
+
 ## Guides & Documentation
 
 |Name|Stars|Description|Notes|
