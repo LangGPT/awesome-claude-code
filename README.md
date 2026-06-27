@@ -44,6 +44,7 @@ English | [简体中文](README-CN.md)
 |[context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | ![GitHub Repo stars](https://badgen.net/github/stars/coleam00/context-engineering-intro) | Context engineering - the new way of AI coding assistants | Context engineering guide|
 |[claudia](https://github.com/getAsterisk/claudia) | ![GitHub Repo stars](https://badgen.net/github/stars/getAsterisk/claudia) | Powerful Claude Code GUI app and toolkit | GUI management tool|
 |[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/hesreallyhim/awesome-claude-code) | Curated list of awesome commands, files, and workflows for Claude Code | Resource collection|
+|[AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) | ![](https://img.shields.io/github/stars/franklinxkk/ai-delivery-spec) | Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes | Works with Claude Code/Cursor/Codex |
 
 ## GUI & Web Interfaces
 
