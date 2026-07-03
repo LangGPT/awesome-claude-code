@@ -69,6 +69,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 
 |名称|Stars|简介|备注|
 |-------|-------|-------|------|
+|[ai-meeting-skill](https://github.com/bin1874/ai-meeting-skill) | ![GitHub Repo stars](https://badgen.net/github/stars/bin1874/ai-meeting-skill) | 面向 Codex 和 Claude 的多 agent AI 会议 skill，支持跨轮会话保持和结构化最终报告 | 多 agent 评审工作流|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | 将代码库转换为单个 LLM 提示的 CLI 工具 | 代码转提示工具|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | 用于规划、构建和修复代码的开源 AI 编程助手 | 开源 AI 助手|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | Claude Code + 多个模型协同工作的力量 | MCP 服务器|
