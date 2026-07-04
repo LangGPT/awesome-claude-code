@@ -22,6 +22,7 @@ English | [简体中文](README-CN.md)
 - [Framework Extensions](#framework-extensions)
 - [MCP Servers & Plugins](#mcp-servers--plugins)
 - [Guides & Documentation](#guides--documentation)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 ## Official Repositories
 
