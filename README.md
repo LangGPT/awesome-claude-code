@@ -213,3 +213,5 @@ Found a great Claude Code related project? Please contribute by submitting a pul
 ## 📄 License
 
 This awesome list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. One-command install, MIT licensed.
