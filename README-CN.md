@@ -70,6 +70,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |名称|Stars|简介|备注|
 |-------|-------|-------|------|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | 将代码库转换为单个 LLM 提示的 CLI 工具 | 代码转提示工具|
+|[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | ![GitHub Repo stars](https://badgen.net/github/stars/TerminallyLazy/Tree-Ring-Memory) | 面向代理记忆的本地优先 Rust CLI/TUI，支持 SQLite/FTS 召回、遗忘、审计报告与合并 | 代理记忆 CLI|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | 用于规划、构建和修复代码的开源 AI 编程助手 | 开源 AI 助手|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | Claude Code + 多个模型协同工作的力量 | MCP 服务器|
 |[ccusage](https://github.com/ryoppippi/ccusage) | ![GitHub Repo stars](https://badgen.net/github/stars/ryoppippi/ccusage) | 从本地 JSONL 文件分析 Claude Code 使用情况的 CLI 工具 | 使用情况分析|
