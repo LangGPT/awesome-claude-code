@@ -1,3 +1,7 @@
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 我来帮你将文件2中的新项目补充到文件1中，保持原有格式：
 
 # Awesome Claude Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -84,6 +88,7 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
+|[aicfg](https://github.com/iPythoning/aicfg) | ![GitHub Repo stars](https://badgen.net/github/stars/iPythoning/aicfg) | AGENTS.md ecosystem CLI: generate, validate, and manage agent configs with automatic shims for 20+ tools | AGENTS.md config manager|
 
 ## Monitoring & Analytics
 
@@ -108,6 +113,10 @@ English | [简体中文](README-CN.md)
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ## Framework Extensions
 
@@ -213,3 +222,7 @@ Found a great Claude Code related project? Please contribute by submitting a pul
 ## 📄 License
 
 This awesome list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
