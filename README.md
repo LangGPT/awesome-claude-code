@@ -83,6 +83,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![GitHub Repo stars](https://badgen.net/github/stars/disler/claude-code-hooks-mastery) | Master Claude Code hooks for advanced automation | Hooks mastery guide|
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
+|[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | ![GitHub Repo stars](https://badgen.net/github/stars/ShakespeareLabs/open-agent-relay) | Turn any local agent or automation into a team-callable capability | Trusted-LAN agent relay CLI|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
 
 ## Monitoring & Analytics
