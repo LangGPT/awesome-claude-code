@@ -89,6 +89,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[Agent Island](https://github.com/tristan666666/agent-island) | ![GitHub Repo stars](https://badgen.net/github/stars/tristan666666/agent-island) | Open-source status companion for Claude Code and Codex with live session state and your-turn alerts | macOS and Windows monitoring companion|
 |[Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | ![GitHub Repo stars](https://badgen.net/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor) | Real-time Claude Code usage monitor with predictions and warnings | Real-time monitoring tool|
 |[sniffly](https://github.com/chiphuyen/sniffly) | ![GitHub Repo stars](https://badgen.net/github/stars/chiphuyen/sniffly) | Claude Code dashboard with usage stats and error analysis | Analytics dashboard|
 |[claude-code-log](https://github.com/daaain/claude-code-log) | ![GitHub Repo stars](https://badgen.net/github/stars/daaain/claude-code-log) | Convert Claude Code transcript JSONL files into readable HTML format | Log conversion tool|
