@@ -101,6 +101,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-proxy](https://github.com/1rgs/claude-code-proxy) | ![GitHub Repo stars](https://badgen.net/github/stars/1rgs/claude-code-proxy) | 在 OpenAI 模型上运行 Claude Code | OpenAI 代理|
 |[claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | ![GitHub Repo stars](https://badgen.net/github/stars/fuergaosi233/claude-code-proxy) | Claude Code 到 OpenAI API 代理 | API 代理服务|
 |[claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | ![GitHub Repo stars](https://badgen.net/github/stars/Wei-Shaw/claude-relay-service) | 支持多账户切换的自建 Claude code 镜像服务 | 中继服务|
+|[Alex](https://github.com/madhavajay/alex) | ![GitHub Repo stars](https://badgen.net/github/stars/madhavajay/alex) | 带可选 UI 的本地 Rust 代理，可将 Claude Code 和其他编码 Agent 路由到多个提供商，支持本地链路追踪、可脚本化中间件、多订阅聚合、故障转移，以及通过即时通讯完成重新认证 | 本地网关与可观测性|
 |[claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq) | ![GitHub Repo stars](https://badgen.net/github/stars/fakerybakery/claude-code-kimi-groq) | 通过 Groq 在 Claude Code 上使用 Kimi K2 的基本代理 | Kimi 代理|
 |[y-router](https://github.com/luohy15/y-router) | ![GitHub Repo stars](https://badgen.net/github/stars/luohy15/y-router) | 使 Claude Code 能够与 OpenRouter 配合使用的简单代理 | OpenRouter 代理|
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | Claude Code 的 OpenAI API 兼容包装器 | OpenAI 兼容包装器|
