@@ -183,6 +183,7 @@ English | [简体中文](README-CN.md)
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Open-source dashboard for Cursor.sh IDE | Cursor monitoring panel|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Claude Code for Windows: No WSL. No Docker. Just code. | Windows native support|
 |[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | A powerful AI coding agent built for the terminal | AI coding agent (archived)|
+|[autoqq](https://github.com/Migiht/autoqq) | ![GitHub Repo stars](https://badgen.net/github/stars/Migiht/autoqq) | Linux systemd timer that pre-warms Claude Code/Codex CLI/opencode rate-limit windows before you sit down | Rate-limit scheduler|
 
 ## Reverse Engineering & Analysis
 
