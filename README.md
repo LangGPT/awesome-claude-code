@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[claude-team-usage-tracker](https://github.com/ggaryaman12/claude-team-usage-tracker) | ![GitHub Repo stars](https://badgen.net/github/stars/ggaryaman12/claude-team-usage-tracker) | Self-hosted Google Chat + web dashboard for tracking shared Claude Pro/Max usage across a team, with an audit-logged relay for borrowing spare account capacity | Team usage dashboard|
 
 ## Proxy & API Tools
 
