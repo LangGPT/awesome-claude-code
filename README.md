@@ -141,7 +141,7 @@ English | [简体中文](README-CN.md)
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
-|[x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | X/Twitter data extraction skill with MCP server, REST API, 20 bulk tools | X/Twitter data platform|
+|[x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | X data platform with REST API, MCP, SDKs, 23 extraction tools, monitoring, and confirmation-gated publishing | Not affiliated with X Corp.|
 
 ## Guides & Documentation
 
