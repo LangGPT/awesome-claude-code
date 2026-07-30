@@ -133,13 +133,13 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[git-mcp](https://github.com/idosal/git-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/idosal/git-mcp) | 适用于任何 GitHub 项目的免费开源远程 MCP 服务器 | Git 集成 MCP|
 |[codemcp](https://github.com/ezyang/codemcp) | ![GitHub Repo stars](https://badgen.net/github/stars/ezyang/codemcp) | Claude Desktop 的编程助手 MCP | 编程助手 MCP|
 |[claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/claude-code-mcp) | Claude Code 作为一次性 MCP 服务器 - 代理中的代理 | 嵌套代理 MCP|
-|[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | ![GitHub Repo stars](https://badgen.net/github/stars/doobidoo/mcp-memory-service) | 为 Claude 提供语义记忆和持久存储的 MCP 服务器 | 记忆服务 MCP|
 |[mcp-server](https://github.com/e2b-dev/mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/mcp-server) | 通过 MCP 让 Claude 能够使用 E2B 运行代码 | 代码执行 MCP|
 |[code-context](https://github.com/zilliztech/code-context) | ![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/code-context) | 用于语义代码搜索的 MCP 插件 | 代码搜索 MCP|
 |[mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/SDGLBL/mcp-claude-code) | Claude Code 功能的 MCP 实现 | 功能实现 MCP|
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+|[x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | 提供 REST API、MCP、SDK、23 个提取工具、监控及需确认发布功能的 X 数据平台 | Not affiliated with X Corp.|
 
 ## 指南与文档
 

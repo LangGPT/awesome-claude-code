@@ -135,13 +135,13 @@ English | [简体中文](README-CN.md)
 |[git-mcp](https://github.com/idosal/git-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/idosal/git-mcp) | Free open-source remote MCP server for any GitHub project | Git integration MCP|
 |[codemcp](https://github.com/ezyang/codemcp) | ![GitHub Repo stars](https://badgen.net/github/stars/ezyang/codemcp) | Coding assistant MCP for Claude Desktop | Coding assistant MCP|
 |[claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/claude-code-mcp) | Claude Code as one-shot MCP server - agent in your agent | Nested agent MCP|
-|[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | ![GitHub Repo stars](https://badgen.net/github/stars/doobidoo/mcp-memory-service) | MCP server providing semantic memory and persistent storage for Claude | Memory service MCP|
 |[mcp-server](https://github.com/e2b-dev/mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/mcp-server) | Giving Claude ability to run code with E2B via MCP | Code execution MCP|
 |[code-context](https://github.com/zilliztech/code-context) | ![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/code-context) | MCP plugin for semantic code search | Code search MCP|
 |[mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/SDGLBL/mcp-claude-code) | MCP implementation of Claude Code capabilities | Feature implementation MCP|
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
+|[x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ![GitHub Repo stars](https://badgen.net/github/stars/Xquik-dev/x-twitter-scraper) | X data platform with REST API, MCP, SDKs, 23 extraction tools, monitoring, and confirmation-gated publishing | Not affiliated with X Corp.|
 
 ## Guides & Documentation
 
