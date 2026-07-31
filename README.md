@@ -49,6 +49,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[superviewer](https://github.com/dodlabinc/superviewer-releases) | ![GitHub Repo stars](https://badgen.net/github/stars/dodlabinc/superviewer-releases) | Desktop viewer that instantly renders AI agent-generated artifacts (images, HTML, video, markdown, docs) from a single MCP tool call | Instant render, no browser needed|
 |[claudecodeui](https://github.com/siteboon/claudecodeui) | ![GitHub Repo stars](https://badgen.net/github/stars/siteboon/claudecodeui) | Use Claude Code on mobile and web with Claude Code UI | Cross-platform Web UI|
 |[claude-code-webui](https://github.com/sugyan/claude-code-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/sugyan/claude-code-webui) | Web-based interface for Claude CLI with streaming chat responses | Streaming Web interface|
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | Beautiful Claude Code Chat Interface for VS Code | VS Code chat interface|
