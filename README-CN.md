@@ -82,6 +82,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Claude Code 通信工具 | 通信工具|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | 通过电子邮件、discord、telegram 远程控制 Claude Code | 远程控制工具|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Claude code 和 Codex 的零配置代码流 | 零配置工作流|
+|[dev-report](https://github.com/delpicorp/dev-report) | ![GitHub Repo stars](https://badgen.net/github/stars/delpicorp/dev-report) | 用通俗语言解释 Claude Code 会话：改了什么、为什么这样改、还有什么没做完、接下来该做什么 | 会话解释插件|
 
 ## 监控与分析
 
