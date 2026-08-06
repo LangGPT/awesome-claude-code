@@ -84,6 +84,8 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
+|[Launchpad](https://github.com/noambrand/Launchpad-CLI) | ![GitHub Repo stars](https://badgen.net/github/stars/noambrand/Launchpad-CLI) | One-command Claude Code installer with a GUI folder picker, per-project profiles, a live status bar, and voice alerts | Windows/macOS/Linux installer|
+|[Kivun](https://github.com/noambrand/kivun-terminal-wsl) | ![GitHub Repo stars](https://badgen.net/github/stars/noambrand/kivun-terminal-wsl) | Claude Code installer with correct Hebrew/Arabic/Persian right-to-left terminal rendering | RTL installer (WSL/Linux)|
 
 ## Monitoring & Analytics
 
