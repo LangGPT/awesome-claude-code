@@ -87,6 +87,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 
 |名称|Stars|简介|备注|
 |-------|-------|-------|------|
+|[Agent Island](https://github.com/tristan666666/agent-island) | ![GitHub Repo stars](https://badgen.net/github/stars/tristan666666/agent-island) | 支持 Claude、Codex、Antigravity、Grok 与 Cursor 的原生伴侣，提供本地会话状态、轮到你提醒和服务商用量视图 | 免费、MIT 开源|
 |[Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | ![GitHub Repo stars](https://badgen.net/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor) | 带预测和警告的实时 Claude Code 使用情况监控器 | 实时监控工具|
 |[sniffly](https://github.com/chiphuyen/sniffly) | ![GitHub Repo stars](https://badgen.net/github/stars/chiphuyen/sniffly) | 带使用统计和错误分析的 Claude Code 仪表板 | 分析仪表板|
 |[claude-code-log](https://github.com/daaain/claude-code-log) | ![GitHub Repo stars](https://badgen.net/github/stars/daaain/claude-code-log) | 将 Claude Code 转录 JSONL 文件转换为可读的 HTML 格式 | 日志转换工具|
