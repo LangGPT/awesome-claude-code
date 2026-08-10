@@ -89,7 +89,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
-|[Agent Island](https://github.com/tristan666666/agent-island) | ![GitHub Repo stars](https://badgen.net/github/stars/tristan666666/agent-island) | Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, your-turn alerts, and provider usage views | Free and MIT licensed|
+|[Agent Island](https://github.com/tristan666666/agent-island) | ![GitHub Repo stars](https://badgen.net/github/stars/tristan666666/agent-island) | Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views | Free and MIT licensed|
 |[Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | ![GitHub Repo stars](https://badgen.net/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor) | Real-time Claude Code usage monitor with predictions and warnings | Real-time monitoring tool|
 |[sniffly](https://github.com/chiphuyen/sniffly) | ![GitHub Repo stars](https://badgen.net/github/stars/chiphuyen/sniffly) | Claude Code dashboard with usage stats and error analysis | Analytics dashboard|
 |[claude-code-log](https://github.com/daaain/claude-code-log) | ![GitHub Repo stars](https://badgen.net/github/stars/daaain/claude-code-log) | Convert Claude Code transcript JSONL files into readable HTML format | Log conversion tool|
