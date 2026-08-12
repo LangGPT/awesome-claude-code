@@ -54,6 +54,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | Beautiful Claude Code Chat Interface for VS Code | VS Code chat interface|
 |[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | Browse and view Claude Code session history in browser | Session history viewer|
 |[opcode](https://github.com/winfunc/opcode) | ![GitHub Repo stars](https://badgen.net/github/stars/winfunc/opcode) | Powerful GUI app and Toolkit for Claude Code with custom agents and interactive sessions | Advanced GUI toolkit|
+|[Sillage](https://github.com/MarlBurroW/sillage) | ![GitHub Repo stars](https://badgen.net/github/stars/MarlBurroW/sillage) | Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with full-text search, an IDE panel and an installable PWA | Self-hosted mobile web UI|
 
 ## IDE & Editor Extensions
 
