@@ -132,6 +132,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[cicada-husk](https://github.com/blazephoenixxyz-crypto/cicada-husk) | ![GitHub Repo stars](https://badgen.net/github/stars/blazephoenixxyz-crypto/cicada-husk) | Token-lean operating discipline: reads code by symbol instead of by whole file, doses effort per task, budgets sub-agents by risk | Read-only plugin, ~0 tokens/turn|
 |[git-mcp](https://github.com/idosal/git-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/idosal/git-mcp) | Free open-source remote MCP server for any GitHub project | Git integration MCP|
 |[codemcp](https://github.com/ezyang/codemcp) | ![GitHub Repo stars](https://badgen.net/github/stars/ezyang/codemcp) | Coding assistant MCP for Claude Desktop | Coding assistant MCP|
 |[claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/claude-code-mcp) | Claude Code as one-shot MCP server - agent in your agent | Nested agent MCP|
