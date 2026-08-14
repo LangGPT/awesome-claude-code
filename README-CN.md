@@ -134,6 +134,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[codemcp](https://github.com/ezyang/codemcp) | ![GitHub Repo stars](https://badgen.net/github/stars/ezyang/codemcp) | Claude Desktop 的编程助手 MCP | 编程助手 MCP|
 |[claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/claude-code-mcp) | Claude Code 作为一次性 MCP 服务器 - 代理中的代理 | 嵌套代理 MCP|
 |[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | ![GitHub Repo stars](https://badgen.net/github/stars/doobidoo/mcp-memory-service) | 为 Claude 提供语义记忆和持久存储的 MCP 服务器 | 记忆服务 MCP|
+|[llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | ![GitHub Repo stars](https://badgen.net/github/stars/JanYork/llm-wiki-cli) | 主动式项目记忆 CLI，支持来源引用、全文检索、可选文档/代码图谱及有边界的只读 MCP 服务 | 项目记忆 MCP|
 |[mcp-server](https://github.com/e2b-dev/mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/mcp-server) | 通过 MCP 让 Claude 能够使用 E2B 运行代码 | 代码执行 MCP|
 |[code-context](https://github.com/zilliztech/code-context) | ![GitHub Repo stars](https://badgen.net/github/stars/zilliztech/code-context) | 用于语义代码搜索的 MCP 插件 | 代码搜索 MCP|
 |[mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/SDGLBL/mcp-claude-code) | Claude Code 功能的 MCP 实现 | 功能实现 MCP|
