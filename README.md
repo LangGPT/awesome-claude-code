@@ -44,6 +44,7 @@ English | [简体中文](README-CN.md)
 |[context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | ![GitHub Repo stars](https://badgen.net/github/stars/coleam00/context-engineering-intro) | Context engineering - the new way of AI coding assistants | Context engineering guide|
 |[claudia](https://github.com/getAsterisk/claudia) | ![GitHub Repo stars](https://badgen.net/github/stars/getAsterisk/claudia) | Powerful Claude Code GUI app and toolkit | GUI management tool|
 |[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/hesreallyhim/awesome-claude-code) | Curated list of awesome commands, files, and workflows for Claude Code | Resource collection|
+|[backbrief-kit](https://github.com/charlesashe/backbrief-kit) | ![GitHub Repo stars](https://badgen.net/github/stars/charlesashe/backbrief-kit) | Free plugin that drops an agent team into a project: orchestrator, specialist agents, and a fresh-context verifier that checks finished work | Agent team kit|
 
 ## GUI & Web Interfaces
 
