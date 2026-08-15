@@ -69,6 +69,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 
 |名称|Stars|简介|备注|
 |-------|-------|-------|------|
+|[agent-qa](https://github.com/vostride/agent-qa) | ![GitHub Repo stars](https://badgen.net/github/stars/vostride/agent-qa) | 开源自我改进 QA 代理，通过 CLI、MCP 和 Claude Code Skills 运行自然语言 Web 与移动端测试 | AI 测试自动化|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | 将代码库转换为单个 LLM 提示的 CLI 工具 | 代码转提示工具|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | 用于规划、构建和修复代码的开源 AI 编程助手 | 开源 AI 助手|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | Claude Code + 多个模型协同工作的力量 | MCP 服务器|
