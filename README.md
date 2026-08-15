@@ -71,6 +71,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[agent-qa](https://github.com/vostride/agent-qa) | ![GitHub Repo stars](https://badgen.net/github/stars/vostride/agent-qa) | Open-source self-improving QA agent for natural-language web and mobile tests with CLI, MCP, and Claude Code skills | AI-powered test automation|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | CLI tool to convert codebase into single LLM prompt | Code-to-prompt tool|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | Open Source AI coding assistant for planning, building, and fixing code | Open source AI assistant|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | The power of Claude Code + multiple models working as one | MCP server|
