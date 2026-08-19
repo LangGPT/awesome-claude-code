@@ -84,6 +84,7 @@ English | [简体中文](README-CN.md)
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Communication utilities for Claude Code | Communication tools|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | Control Claude Code remotely via email, discord, telegram | Remote control tool|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | Zero-config workflow|
+|[claude-code-account-switcher](https://github.com/Nemo-Illusionist/claude-code-account-switcher) | ![GitHub Repo stars](https://badgen.net/github/stars/Nemo-Illusionist/claude-code-account-switcher) | Binds Claude Code accounts to directories — `cd` activates the matching account via `CLAUDE_CONFIG_DIR`, with per-account settings, IDE wrapper, usage and identity audit | Multi-account switcher|
 
 ## Monitoring & Analytics
 
