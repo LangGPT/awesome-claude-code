@@ -125,6 +125,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code 超能力：核心技能库 | 核心技能库|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Claude Code 的专业 AI 子代理集合 | 专业子代理|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | 用于 Claude Code 的自定义子代理 | 自定义子代理|
+|[claude-forge](https://github.com/sangrokjung/claude-forge) | ![GitHub Repo stars](https://badgen.net/github/stars/sangrokjung/claude-forge) | 一键安装的 Claude Code 配置框架，包含 agents、命令、skills 和安全 hooks | 配置框架|
 
 ## MCP服务器与插件
 
