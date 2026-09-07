@@ -82,6 +82,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication) | ![GitHub Repo stars](https://badgen.net/github/stars/nishimoto265/Claude-Code-Communication) | Claude Code 通信工具 | 通信工具|
 |[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) | ![GitHub Repo stars](https://badgen.net/github/stars/JessyTsui/Claude-Code-Remote) | 通过电子邮件、discord、telegram 远程控制 Claude Code | 远程控制工具|
 |[zcf](https://github.com/UfoMiao/zcf) | ![GitHub Repo stars](https://badgen.net/github/stars/UfoMiao/zcf) | Claude code 和 Codex 的零配置代码流 | 零配置工作流|
+|[chrome-bridge](https://github.com/siropkin/chrome-bridge)|![GitHub Repo stars](https://badgen.net/github/stars/siropkin/chrome-bridge)|零依赖 Node CLI + 小巧 Chrome 扩展,让任意 AI 智能体(Claude Code、Cursor、Qwen Code、GLM 等)驱动你已登录的真实 Chrome;带元素引用的无障碍树快照比截图省约 10 倍 token|开源 MIT|
 
 ## 监控与分析
 
