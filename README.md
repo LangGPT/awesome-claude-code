@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[tokenchit](https://github.com/iyashjayesh/tokenchit) | ![GitHub Repo stars](https://badgen.net/github/stars/iyashjayesh/tokenchit) | Reads local Claude Code, Codex and OpenCode logs and renders a token-usage card committed into your repo | Stat card generator|
 
 ## Proxy & API Tools
 
