@@ -53,6 +53,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-webui](https://github.com/sugyan/claude-code-webui) | ![GitHub Repo stars](https://badgen.net/github/stars/sugyan/claude-code-webui) | Web-based interface for Claude CLI with streaming chat responses | Streaming Web interface|
 |[claude-code-chat](https://github.com/andrepimenta/claude-code-chat) | ![GitHub Repo stars](https://badgen.net/github/stars/andrepimenta/claude-code-chat) | Beautiful Claude Code Chat Interface for VS Code | VS Code chat interface|
 |[Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI) | ![GitHub Repo stars](https://badgen.net/github/stars/binggg/Claude-Code-Web-GUI) | Browse and view Claude Code session history in browser | Session history viewer|
+|[Peach](https://github.com/asafsufush/peach) | ![GitHub Repo stars](https://badgen.net/github/stars/asafsufush/peach) | Native macOS app showing every running Claude Code session on one rack — live state, one-click answers to Claude's questions, and search across every past conversation | Only client with correct right-to-left rendering (Hebrew, Arabic, Persian, Urdu); <1MB, no server|
 |[opcode](https://github.com/winfunc/opcode) | ![GitHub Repo stars](https://badgen.net/github/stars/winfunc/opcode) | Powerful GUI app and Toolkit for Claude Code with custom agents and interactive sessions | Advanced GUI toolkit|
 
 ## IDE & Editor Extensions
