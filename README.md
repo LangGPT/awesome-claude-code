@@ -71,6 +71,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[Ultimate Dev Toolkit](https://github.com/kaazyxx/ultimate-dev-toolkit) | ![GitHub Repo stars](https://badgen.net/github/stars/kaazyxx/ultimate-dev-toolkit) | Security-first universal Claude Code plugin: 520 skills, 176 commands, 120 agents, 28 hooks, and 4 MCP connectors; detects what's actually installed and never fakes support | Universal dev toolkit plugin|
 |[code2prompt](https://github.com/mufeedvh/code2prompt) | ![GitHub Repo stars](https://badgen.net/github/stars/mufeedvh/code2prompt) | CLI tool to convert codebase into single LLM prompt | Code-to-prompt tool|
 |[kilocode](https://github.com/Kilo-Org/kilocode) | ![GitHub Repo stars](https://badgen.net/github/stars/Kilo-Org/kilocode) | Open Source AI coding assistant for planning, building, and fixing code | Open source AI assistant|
 |[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | ![GitHub Repo stars](https://badgen.net/github/stars/BeehiveInnovations/zen-mcp-server) | The power of Claude Code + multiple models working as one | MCP server|
