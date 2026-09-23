@@ -93,6 +93,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Claude Code 使用的成本跟踪 | 成本跟踪工具|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | 将 Claude Code 聊天会话导出为 markdown 和 XML | 会话导出工具|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | 监控 Claude Code 使用、性能和成本的综合可观察性解决方案 | 可观察性解决方案|
+|[antiburn](https://github.com/antiburn/antiburn) | ![GitHub Repo stars](https://badgen.net/github/stars/antiburn/antiburn) | 免费的本地桌面应用，检查 Claude Code 会话中常见的 token 浪费原因：会话过深、子代理使用高端模型、缓存失效，以及未使用的 MCP、技能和工具。也支持 Codex、Cursor、Copilot、Pi 等 | Token 浪费检查|
 
 ## 代理与API工具
 
