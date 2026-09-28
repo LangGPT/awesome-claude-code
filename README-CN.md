@@ -140,6 +140,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+|[Omentir](https://github.com/vanshyadav1408/Omentir) | ![GitHub Repo stars](https://badgen.net/github/stars/vanshyadav1408/Omentir) | 用于 LinkedIn 获客和外联的远程 MCP 服务器：查找并评估潜在客户、起草消息、按人工节奏运行外联活动 | LinkedIn 销售 MCP|
 
 ## 指南与文档
 
