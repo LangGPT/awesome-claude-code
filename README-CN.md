@@ -140,6 +140,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+|[claude-code-zh](https://github.com/jiangnanquan/claude-code-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/jiangnanquan/claude-code-zh) | 基于官方 function hooks 的 Claude Code 简体中文界面汉化 mod：静态词典、零 token、零网络、不改官方产物 | 中文界面汉化 mod|
 
 ## 指南与文档
 
