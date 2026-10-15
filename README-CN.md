@@ -118,6 +118,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[agent-rules](https://github.com/steipete/agent-rules) | ![GitHub Repo stars](https://badgen.net/github/stars/steipete/agent-rules) | 更好地与 Claude Code 或 Cursor 等代理协作的规则和知识 | 代理协作规则|
 |[claude-on-rails](https://github.com/obie/claude-on-rails) | ![GitHub Repo stars](https://badgen.net/github/stars/obie/claude-on-rails) | 使用 Claude Code 的 Ruby on Rails 开发者开发框架 | Rails 开发框架|
 |[claude-simone](https://github.com/Helmi/claude-simone) | ![GitHub Repo stars](https://badgen.net/github/stars/Helmi/claude-simone) | 使用 Claude Code 进行 AI 辅助开发的项目管理框架 | 项目管理框架|
+|[kanbanr](https://github.com/startr-trade/kanbanr) | ![GitHub Repo stars](https://badgen.net/github/stars/startr-trade/kanbanr) | Claude Code 的 Git 版本化项目记录系统：计划模式下划定范围、可配置工作流（Kanban、Scrum、TOGAF、PDCA），并将代码追溯到需求 | 项目管理与可追溯性|
 |[awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | ![GitHub Repo stars](https://badgen.net/github/stars/VoltAgent/awesome-claude-code-subagents) | 包含 100 多个专业 AI 代理的生产就绪 Claude 子代理集合 | 子代理合集|
 |[agents](https://github.com/wshobson/agents) | ![GitHub Repo stars](https://badgen.net/github/stars/wshobson/agents) | Claude Code 的智能自动化和多代理编排 | 多代理编排|
 |[claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) | ![GitHub Repo stars](https://badgen.net/github/stars/davepoon/claude-code-subagents-collection) | Claude Code 子代理和命令集合 + CLI 工具 | 子代理 CLI 工具|
