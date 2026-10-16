@@ -123,6 +123,11 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) | ![GitHub Repo stars](https://badgen.net/github/stars/davepoon/claude-code-subagents-collection) | Claude Code 子代理和命令集合 + CLI 工具 | 子代理 CLI 工具|
 |[awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/vijaythecoder/awesome-claude-agents) | 由 claude code 驱动的编排子代理开发团队 | 子代理开发团队|
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code 超能力：核心技能库 | 核心技能库|
+|[takeout-coupon](https://github.com/moooai/takeout-coupon) | ![GitHub Repo stars](https://badgen.net/github/stars/moooai/takeout-coupon) | 外卖优惠券技能：一键获取美团、饿了么/淘宝闪购、京东外卖红包与隐藏优惠券口令 | 优惠券技能|
+|[trip-coupon](https://github.com/moooai/trip-coupon) | ![GitHub Repo stars](https://badgen.net/github/stars/moooai/trip-coupon) | 出行优惠券技能：滴滴打车券包与美团、同程、飞猪酒店优惠 | 优惠券技能|
+|[movie-coupon](https://github.com/moooai/movie-coupon) | ![GitHub Repo stars](https://badgen.net/github/stars/moooai/movie-coupon) | 电影票优惠券技能：淘票票、猫眼领券链接与二维码 | 优惠券技能|
+|[parcel-coupon](https://github.com/moooai/parcel-coupon) | ![GitHub Repo stars](https://badgen.net/github/stars/moooai/parcel-coupon) | 快递优惠券技能：顺丰、中通、圆通、韵达、申通、菜鸟 | 优惠券技能|
+|[obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | ![GitHub Repo stars](https://badgen.net/github/stars/moooai/obtain-coupons-all-in-one) | 全家桶优惠券技能：外卖、出行、电影、快递一站领取 | 优惠券技能|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Claude Code 的专业 AI 子代理集合 | 专业子代理|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | 用于 Claude Code 的自定义子代理 | 自定义子代理|
 
