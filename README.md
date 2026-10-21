@@ -95,6 +95,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) | ![GitHub Repo stars](https://badgen.net/github/stars/philipp-spiess/claude-code-costs) | Cost tracking for Claude Code usage | Cost tracking tool|
 |[cctrace](https://github.com/jimmc414/cctrace) | ![GitHub Repo stars](https://badgen.net/github/stars/jimmc414/cctrace) | Export Claude Code chat sessions into markdown and XML | Session export tool|
 |[claude-code-otel](https://github.com/ColeMurray/claude-code-otel) | ![GitHub Repo stars](https://badgen.net/github/stars/ColeMurray/claude-code-otel) | Comprehensive observability solution for monitoring Claude Code usage, performance, and costs | Observability solution|
+|[gander](https://github.com/weellio/gander) | ![GitHub Repo stars](https://badgen.net/github/stars/weellio/gander) | Local control room for Claude Code agents: every session on an animated office floor, a needs-you rail with phone/Telegram/Slack alerts and Allow/Deny from anywhere, cost per session and project, a danger guard that holds destructive commands, and a read-only MCP server so claude.ai can query it. | Live dashboard + alerts + cost + danger guard|
 
 ## Proxy & API Tools
 
