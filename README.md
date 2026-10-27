@@ -142,6 +142,7 @@ English | [简体中文](README-CN.md)
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
+|[nopekit](https://github.com/neuman/nopekit) | ![GitHub Repo stars](https://badgen.net/github/stars/neuman/nopekit) | Claude Code plugin for designing physical things (CAD, 3D printing, thermal, structures) where every check must prove it can fail | Hardware design validation plugin|
 
 ## Guides & Documentation
 
