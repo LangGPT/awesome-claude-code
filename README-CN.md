@@ -173,6 +173,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[agentapi](https://github.com/coder/agentapi) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/agentapi) | Claude Code、Goose、Aider、Gemini 和 Codex 的 HTTP API | 多代理 API|
 |[claudebox](https://github.com/RchGrav/claudebox) | ![GitHub Repo stars](https://badgen.net/github/stars/RchGrav/claudebox) | 终极 Claude Code Docker 开发环境 | Docker 开发环境|
 |[ccmanager](https://github.com/kbwo/ccmanager) | ![GitHub Repo stars](https://badgen.net/github/stars/kbwo/ccmanager) | Claude Code/Gemini CLI/Codex CLI 会话管理器 | 会话管理器|
+|[agent-notifications](https://github.com/777genius/agent-notifications) | ![GitHub Repo stars](https://badgen.net/github/stars/777genius/agent-notifications) | 为 Claude Code 等编程智能体提供桌面和 Webhook 通知，Claude/Codex 还支持提示音和点击聚焦 | 支持 macOS、Linux 和 Windows|
 |[claude-cmd](https://github.com/kiliczsh/claude-cmd) | ![GitHub Repo stars](https://badgen.net/github/stars/kiliczsh/claude-cmd) | Claude Code 命令管理器 | 命令管理器|
 |[code-graph-rag](https://github.com/vitali87/code-graph-rag) | ![GitHub Repo stars](https://badgen.net/github/stars/vitali87/code-graph-rag) | 比 Claude Code 或 Gemini CLI 更适合 Monorepos | Monorepo 工具|
 |[CodeWebChat](https://github.com/robertpiosik/CodeWebChat) | ![GitHub Repo stars](https://badgen.net/github/stars/robertpiosik/CodeWebChat) | 面向所有人的免费 AI 编程 | 免费 AI 编程|
