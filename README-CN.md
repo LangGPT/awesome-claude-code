@@ -140,6 +140,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+|[multi-llm](https://github.com/beastlabai/multi-llm-plugin) | ![GitHub Repo stars](https://badgen.net/github/stars/beastlabai/multi-llm-plugin) | 在 Claude Code 中通过多个编程 CLI 并行评审计划、生成任务、执行实现和评审代码 | 同时支持 Codex 和 OpenCode |
 
 ## 指南与文档
 
