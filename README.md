@@ -142,6 +142,7 @@ English | [简体中文](README-CN.md)
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
+|[mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales: build ICPs, research prospects, score leads (0-100), draft cold emails/LinkedIn, and build sequences. Install: `npx mach-gtm-mcp` | B2B sales MCP|
 
 ## Guides & Documentation
 
