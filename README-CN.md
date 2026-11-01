@@ -140,6 +140,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
+|[deja-vu](https://github.com/vshulcz/deja-vu) | ![GitHub Repo stars](https://badgen.net/github/stars/vshulcz/deja-vu) | 在 Claude Code 内通过 MCP 和 SessionStart 钩子搜索过去的 Claude Code、Codex、Cursor 等 43 个编程代理会话；本地索引，无需 LLM | 会话记忆 MCP|
 
 ## 指南与文档
 
