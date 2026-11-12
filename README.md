@@ -27,6 +27,7 @@ English | [简体中文](README-CN.md)
 
 |Name|Stars|Description|Notes|
 |-------|-------|-------|------|
+|[meetjson](https://github.com/ouzbhdr/meetjson) | ![GitHub Repo stars](https://badgen.net/github/stars/ouzbhdr/meetjson) | Drop-in BaseURL proxy and Edge MCP server reducing context tokens by 60-99% via AST skeletons and JSON pruning | BaseURL token proxy|
 |[claude-code](https://github.com/anthropics/claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code) | Official Claude Code terminal intelligent coding assistant | Official Anthropic release|
 |[claude-code-action](https://github.com/anthropics/claude-code-action) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-action) | GitHub Actions integration for Claude Code | Official CI/CD integration|
 |[claude-code-base-action](https://github.com/anthropics/claude-code-base-action) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code-base-action) | Mirror repo of base-action contents | Official base actions|
