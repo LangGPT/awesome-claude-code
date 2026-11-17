@@ -181,6 +181,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[CursorLens](https://github.com/HamedMP/CursorLens) | ![GitHub Repo stars](https://badgen.net/github/stars/HamedMP/CursorLens) | Cursor.sh IDE 的开源仪表板 | Cursor 监控面板|
 |[win-claude-code](https://github.com/somersby10ml/win-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/somersby10ml/win-claude-code) | Windows 版 Claude Code：无需 WSL。无需 Docker。只需编码。 | Windows 原生支持|
 |[opencode](https://github.com/opencode-ai/opencode) | ![GitHub Repo stars](https://badgen.net/github/stars/opencode-ai/opencode) | 为终端构建的强大 AI 编程代理 | AI 编程代理（已归档）|
+|[Watch](https://github.com/can4hou6joeng4/Watch) | ![GitHub Repo stars](https://badgen.net/github/stars/can4hou6joeng4/Watch) | 本地 CLI 与 Tauri 桌面工具，把一个已保存的编程 Agent 会话（Claude Code、Codex、Kimi、OpenCode、Pi、Grok）连同工作目录与恢复命令交到另一个 Agent | 会话接力|
 
 ## 逆向工程与分析
 
