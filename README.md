@@ -127,6 +127,7 @@ English | [简体中文](README-CN.md)
 |[superpowers](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://badgen.net/github/stars/obra/superpowers) | Claude Code superpowers: core skills library | Core skills library|
 |[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/lst97/claude-code-sub-agents) | Collection of specialized AI subagents for Claude Code | Specialized subagents|
 |[claude-agents](https://github.com/iannuttall/claude-agents) | ![GitHub Repo stars](https://badgen.net/github/stars/iannuttall/claude-agents) | Custom subagents to use with Claude Code | Custom subagents|
+|[dayan-enterprise-ai-skills](https://github.com/Kosmoray/dayan-enterprise-ai-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/Kosmoray/dayan-enterprise-ai-skills) | 66 battle-tested enterprise B2B skills and zero-dependency Python CLI tools for Claude Code | Enterprise skills library|
 
 ## MCP Servers & Plugins
 
