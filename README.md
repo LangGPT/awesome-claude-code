@@ -108,6 +108,7 @@ English | [简体中文](README-CN.md)
 |[claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) | ![GitHub Repo stars](https://badgen.net/github/stars/RichardAtCT/claude-code-openai-wrapper) | OpenAI API-compatible wrapper for Claude Code | OpenAI compatible wrapper|
 |[anyclaude](https://github.com/coder/anyclaude) | ![GitHub Repo stars](https://badgen.net/github/stars/coder/anyclaude) | Claude Code with any LLM | Multi-model support|
 |[claude-code-open](https://github.com/Davincible/claude-code-open) | ![GitHub Repo stars](https://badgen.net/github/stars/Davincible/claude-code-open) | Claude Code with any LLM provider | Open LLM support|
+|[MartLLM](https://martllm.com) | - | Paid API marketplace with an Anthropic-compatible endpoint; point Claude Code at it to use Claude, GPT, Gemini, DeepSeek and other models served by third-party sellers | Hosted API (not open source)|
 
 ## Framework Extensions
 
